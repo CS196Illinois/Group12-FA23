@@ -1,7 +1,7 @@
 # Group TEAM_NUMBER
 Group Name: Group 12
 
-[MVP Link](http://cs196.cs.illinois.edu)
+[MVP Link](https://docs.google.com/document/d/1ZDkbsrtTkGord4ou1SVkyxZSWc_aK-eOFmJNZtqJl3M/edit)
 
 Team Members: amc19, larsenp2,  mahirs2, jrleong2, ronaldc5, jenys2
 
