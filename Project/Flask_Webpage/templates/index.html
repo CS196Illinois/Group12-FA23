@@ -1,13 +1,15 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        {% if title %}
-            <title>{{ title }}</title>
-        {% else %}
-            <title>Group 12 CS124H Project</title>
-        {% endif %}
-    </head>
-    <body>
-        Hi there
-    </body>
-</html>
+{% extends "layout.html" %}
+
+{% block content %} 
+    <div class="col-md-7">
+        <h1>Hello World!</h1>
+    </div>
+
+    <div class="col-md-5">
+        <div class="content-section">
+          <h3>Recent Calculations</h3>
+          <p class='text-muted'>See what other people have asked the algorithm to evaluate!</p>
+          <!-- Not Implemented Yet -->
+        </div>
+    </div>
+{% endblock %}
