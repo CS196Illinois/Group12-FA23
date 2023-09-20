@@ -30,4 +30,5 @@ body {
     border: 1px solid #dddddd;
     border-radius: 3px;
     margin-bottom: 20px;
+    box-shadow: 7px 5px 5px rgba(120, 120, 120, .5)
   }
