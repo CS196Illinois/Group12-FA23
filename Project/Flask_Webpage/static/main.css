@@ -11,6 +11,10 @@ body {
   .bg-steel {
     background-color: #5f788a;
   }
+
+  .site-header .navbar-brand h4 {
+    color: #fff;
+  }
   
   .site-header .navbar-nav .nav-link {
     color: #cbd5db;
