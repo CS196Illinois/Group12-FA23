@@ -32,3 +32,52 @@ body {
     margin-bottom: 20px;
     box-shadow: 7px 5px 5px rgba(120, 120, 120, .5)
   }
+
+  /* Fade in transition */
+  .fade-in {
+    animation: fadeIn 2.5s;
+  }
+
+  @keyframes fadeIn {
+    0% {
+        transform: translateX(30px);
+        opacity: 0;
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+  }
+
+  @-moz-keyframes fadeIn {
+    0% {
+        transform: translateX(30px);
+        opacity: 0;
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+  }
+
+  @-webkit-keyframes fadeIn {
+    0% {
+        transform: translateX(30px);
+        opacity: 0;
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+  }
+
+  @-o-keyframes fadeIn {
+    0% {
+        transform: translateX(30px);
+        opacity: 0;
+    }
+    100% {
+        transform: translateX(0);
+        opacity: 1;
+    }
+  }
