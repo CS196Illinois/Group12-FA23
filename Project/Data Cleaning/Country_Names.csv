@@ -1,0 +1,320 @@
+country,clean_name
+home_team,home_team
+away_team,away_team
+Scotland,Scotland
+England,England
+Wales,Wales
+Northern Ireland,Northern Ireland
+United States,United States
+Canada,Canada
+Uruguay,Uruguay
+Argentina,Argentina
+Austria,Austria
+Hungary,Hungary
+Czechoslovakia,Czechoslovakia
+Belgium,Belgium
+France,France
+Switzerland,Switzerland
+Netherlands,Netherlands
+Germany,Germany
+Sweden,Sweden
+Norway,Norway
+Italy,Italy
+Chile,Chile
+Finland,Finland
+Luxembourg,Luxembourg
+Catalonia,Catalonia
+Russia,Russia
+Denmark,Denmark
+Brazil,Brazil
+Basque Country,Basque Country
+Japan,Japan
+Philippines,Philippines
+Paraguay,Paraguay
+Estonia,Estonia
+Provence,Provence
+Costa Rica,Costa Rica
+El Salvador,El Salvador
+Guatemala,Guatemala
+Yugoslavia,Yugoslavia
+Poland,Poland
+Spain,Spain
+Portugal,Portugal
+Brittany,Brittany
+Romania,Romania
+New Zealand,New Zealand
+Australia,Australia
+Latvia,Latvia
+Galicia,Galicia
+Central Spain,Central Spain
+Mexico,Mexico
+Andalusia,Andalusia
+Asturias,Asturias
+China PR,China PR
+Lithuania,Lithuania
+Turkey,Turkey
+Aruba,Aruba
+Curaçao,Curacao
+Bulgaria,Bulgaria
+Egypt,Egypt
+South Africa,South Africa
+Haiti,Haiti
+Jamaica,Jamaica
+Republic of Ireland,Republic of Ireland
+Kenya,Kenya
+Uganda,Uganda
+Bolivia,Bolivia
+Peru,Peru
+Honduras,Honduras
+Guyana,Guyana
+Trinidad and Tobago,Trinidad and Tobago
+Belarus,Belarus
+Ukraine,Ukraine
+Barbados,Barbados
+Nicaragua,Nicaragua
+Greece,Greece
+Martinique,Martinique
+Dominica,Dominica
+Silesia,Silesia
+Cuba,Cuba
+Guadeloupe,Guadeloupe
+Israel,Israel
+Indonesia,Indonesia
+Suriname,Suriname
+French Guiana,French Guiana
+Saint Lucia,Saint Lucia
+Ecuador,Ecuador
+Colombia,Colombia
+Venezuela,Venezuela
+Saint Kitts and Nevis,Saint Kitts and Nevis
+Grenada,Grenada
+India,India
+Panama,Panama
+Slovakia,Slovakia
+Manchukuo,Manchukuo
+Croatia,Croatia
+Lebanon,Lebanon
+Puerto Rico,Puerto Rico
+Afghanistan,Afghanistan
+Iran,Iran
+Mongolia,Mongolia
+Tanzania,Tanzania
+Zimbabwe,Zimbabwe
+Zambia,Zambia
+Iceland,Iceland
+Albania,Albania
+Montenegro,Montenegro
+Madagascar,Madagascar
+Mauritius,Mauritius
+Réunion,Reunion Island
+Zanzibar,Zanzibar
+Djibouti,Djibouti
+Ethiopia,Ethiopia
+DR Congo,DR Congo
+South Korea,South Korea
+Vietnam,Vietnam
+Macau,Macau
+Dominican Republic,Dominican Republic
+Cyprus,Cyprus
+Sierra Leone,Sierra Leone
+Nigeria,Nigeria
+Syria,Syria
+Serbia,Serbia
+Taiwan,Taiwan
+Ghana,Ghana
+New Caledonia,New Caledonia
+Vanuatu,Vanuatu
+Fiji,Fiji
+Myanmar,Myanmar
+Pakistan,Pakistan
+Sri Lanka,Sri Lanka
+German DR,German DR
+Tahiti,Tahiti
+Gambia,Gambia
+Hong Kong,Hong Kong
+Singapore,Singapore
+Malaysia,Malaysia
+Guinea-Bissau,Guinea-Bissau
+Saarland,Saarland
+Burundi,Burundi
+Kernow,Kernow
+Cambodia,Cambodia
+Thailand,Thailand
+Vietnam Republic,Vietnam Republic
+Kyrgyzstan,Kyrgyzstan
+Moldova,Moldova
+North Vietnam,North Vietnam
+Togo,Togo
+North Korea,North Korea
+Sudan,Sudan
+Malta,Malta
+Tunisia,Tunisia
+Libya,Libya
+Malawi,Malawi
+Morocco,Morocco
+Benin,Benin
+Cape Verde,Cape Verde
+Cameroon,Cameroon
+Central African Republic,Central African Republic
+Mali,Mali
+Gabon,Gabon
+Burkina Faso,Burkina Faso
+Ivory Coast,Ivory Coast
+Congo,Congo
+Iraq,Iraq
+Saint Vincent and the Grenadines,Saint Vincent and the Grenadines
+Senegal,Senegal
+Guinea,Guinea
+Algeria,Algeria
+Kuwait,Kuwait
+Jordan,Jordan
+Papua New Guinea,Papua New Guinea
+Solomon Islands,Solomon Islands
+Liberia,Liberia
+Somalia,Somalia
+Laos,Laos
+Saudi Arabia,Saudi Arabia
+Chad,Chad
+Bermuda,Bermuda
+Niger,Niger
+Palestine,Palestine
+Yemen,Yemen
+Bahrain,Bahrain
+Oman,Oman
+Wallis Islands and Futuna,Wallis Islands and Futuna
+Corsica,Corsica
+Mauritania,Mauritania
+Western Australia,Western Australia
+Eswatini,Eswatini
+Botswana,Botswana
+Qatar,Qatar
+Lesotho,Lesotho
+Bahamas,Bahamas
+Brunei,Brunei
+Cook Islands,Cook Islands
+Yemen DPR,Yemen DPR
+United Arab Emirates,United Arab Emirates
+Faroe Islands,Faroe Islands
+Nepal,Nepal
+Antigua and Barbuda,Antigua and Barbuda
+Bangladesh,Bangladesh
+Seychelles,Seychelles
+Equatorial Guinea,Equatorial Guinea
+Mozambique,Mozambique
+Guam,Guam
+Angola,Angola
+São Tomé and Príncipe,Sao Tome and Principe
+Rwanda,Rwanda
+Northern Cyprus,Northern Cyprus
+Armenia,Armenia
+Georgia,Georgia
+Azerbaijan,Azerbaijan
+Kazakhstan,Kazakhstan
+Tonga,Tonga
+Kiribati,Kiribati
+Tuvalu,Tuvalu
+Samoa,Samoa
+Greenland,Greenland
+Liechtenstein,Liechtenstein
+Bhutan,Bhutan
+Niue,Niue
+American Samoa,American Samoa
+Belize,Belize
+Cayman Islands,Cayman Islands
+Anguilla,Anguilla
+British Virgin Islands,British Virgin Islands
+Palau,Palau
+Sint Maarten,Sint Maarten
+Namibia,Namibia
+Ynys Môn,Ynys Mon
+Shetland,Shetland
+Åland Islands,Aland Islands
+Saint Martin,Saint Martin
+San Marino,San Marino
+Montserrat,Montserrat
+Slovenia,Slovenia
+Jersey,Jersey
+Guernsey,Guernsey
+Isle of Wight,Isle of Wight
+Turkmenistan,Turkmenistan
+Tajikistan,Tajikistan
+Uzbekistan,Uzbekistan
+Eritrea,Eritrea
+Czech Republic,Czech Republic
+Gibraltar,Gibraltar
+Isle of Man,Isle of Man
+North Macedonia,North Macedonia
+Bosnia and Herzegovina,Bosnia and Herzegovina
+Canary Islands,Canary Islands
+Maldives,Maldives
+Andorra,Andorra
+Frøya,Froya
+Hitra,Hitra
+United States Virgin Islands,United States Virgin Islands
+Northern Mariana Islands,Northern Mariana Islands
+Turks and Caicos Islands,Turks and Caicos Islands
+Micronesia,Micronesia
+Gotland,Gotland
+Saare County,Saare County
+Rhodes,Rhodes
+Tibet,Tibet
+Orkney,Orkney
+Falkland Islands,Falkland Islands
+Monaco,Monaco
+Mayotte,Mayotte
+Vatican City,Vatican City
+Timor-Leste,Timor-Leste
+Alderney,Alderney
+Sark,Sark
+Western Isles,Western Isles
+Kosovo,Kosovo
+Republic of St. Pauli,Republic of St. Pauli
+Găgăuzia,Gagauzia
+Crimea,Crimea
+Occitania,Occitania
+Sápmi,Sapmi
+Comoros,Comoros
+Menorca,Menorca
+Iraqi Kurdistan,Iraqi Kurdistan
+Padania,Padania
+Arameans Suryoye,Arameans Suryoye
+Gozo,Gozo
+Two Sicilies,Two Sicilies
+Saint Pierre and Miquelon,Saint Pierre and Miquelon
+Bonaire,Bonaire
+Western Sahara,Western Sahara
+Raetia,Raetia
+Darfur,Darfur
+Tamil Eelam,Tamil Eelam
+South Sudan,South Sudan
+Abkhazia,Abkhazia
+Artsakh,Artsakh
+Madrid,Madrid
+Ellan Vannin,Ellan Vannin
+South Ossetia,South Ossetia
+County of Nice,County of Nice
+Székely Land,Szekely Land
+Romani people,Romani people
+Felvidék,Felvidek
+Chagos Islands,Chagos Islands
+Somaliland,Somaliland
+Western Armenia,Western Armenia
+United Koreans in Japan,United Koreans in Japan
+Panjab,Panjab
+Barawa,Barawa
+Kárpátalja,Karpatalja
+Yorkshire,Yorkshire
+Surrey,Surrey
+Cascadia,Cascadia
+Matabeleland,Matabeleland
+Kabylia,Kabylia
+Parishes of Jersey,Parishes of Jersey
+Chameria,Chameria
+Saint Helena,Saint Helena
+Yoruba Nation,Yoruba Nation
+Biafra,Biafra
+Mapuche,Mapuche
+Maule Sur,Maule Sur
+Aymara,Aymara
+Ticino,Ticino
+Hmong,Hmong
