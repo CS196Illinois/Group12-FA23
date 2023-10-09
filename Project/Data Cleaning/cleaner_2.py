@@ -20,11 +20,20 @@ with open('Results_Data_Raw.csv', newline='') as csvread:
         spamwriter = csv.writer(csvwrite, delimiter=',')
 
         for row in spamreader:
-            # Adding Extra Column
+            # Adding Extra Columns
             if row[0] == "date":
                 row.append("home_minus_away")
+                row.append("home_result")
             else:
-                row.append(int(row[3]) - int(row[4]))
+                homeMinusAway = int(row[3]) - int(row[4])
+                row.append(homeMinusAway)
+                if (homeMinusAway < 0):
+                    row.append("Lose")
+                elif (homeMinusAway > 0):
+                    row.append("Win")
+                else:
+                    row.append("Tie")
+
 
             # Date Cleaning
             date = None
