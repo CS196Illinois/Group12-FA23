@@ -4,7 +4,8 @@ import csv
 
 # Filenames
 readData = 'Clean_Data_1945andExcludeLow.csv'
-writeData = 'Extracted_Data.csv'
+# writeData = 'Extracted_Data.csv'
+writeData = 'Extracted_Data_WithMissing.csv'
 
 # Dictionaries
 # yearToGlobalOffenseDictionary = {}
@@ -100,19 +101,19 @@ def extractYear(year, home, away):
         homeStats[0] = countryToYearToDefenseDataDictionary[home][yearKey][1]
         homeStats[1] = countryToYearToOffenseDataDictionary[home][yearKey][0] / homeStats[0]
         homeStats[2] = countryToYearToDefenseDataDictionary[home][yearKey][0] / homeStats[0]
-    else:
-        homeStats[0] = 0
-        homeStats[1] = 0
-        homeStats[2] = 0
+    # else:
+        # homeStats[0] = 0
+        # homeStats[1] = 0
+        # homeStats[2] = 0
 
     if (yearKey in countryToYearToDefenseDataDictionary[away] and yearKey in countryToYearToOffenseDataDictionary[away]):
         awayStats[0] = countryToYearToDefenseDataDictionary[away][yearKey][1]
         awayStats[1] = countryToYearToOffenseDataDictionary[away][yearKey][0] / awayStats[0]
         awayStats[2] = countryToYearToDefenseDataDictionary[away][yearKey][0] / awayStats[0]
-    else:
-        awayStats[0] = 0
-        awayStats[1] = 0
-        awayStats[2] = 0
+    # else:
+        # awayStats[0] = 0
+        # awayStats[1] = 0
+        # awayStats[2] = 0
 
     # Enter offense and defense ratios and rescale to percentage difference divided by 10
     # globalOffense = yearToGlobalOffenseDictionary[yearKey]
