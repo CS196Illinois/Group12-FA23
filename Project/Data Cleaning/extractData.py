@@ -1,11 +1,12 @@
 # Script to extract data from the 5 columns of human readable data
 
 import csv
+import random # for testing leakage
 
 # Filenames
 readData = 'Clean_Data_1945andExcludeLow.csv'
 # writeData = 'Extracted_Data.csv'
-writeData = 'Extracted_Data_WithMissing.csv'
+writeData = 'Extracted_Data_MinLeak(3).csv'
 
 # Dictionaries
 # yearToGlobalOffenseDictionary = {}
@@ -198,8 +199,10 @@ with open(readData, newline='') as csvread:
             if (row[0] in startupYears): continue # Skip Startup Years
             pair = formatRow(row)
 
-            spamwriter.writerow(pair[0])
-            spamwriter.writerow(pair[1])
+            if random.randint(0, 1) == 0:
+                spamwriter.writerow(pair[0])
+            else:
+                spamwriter.writerow(pair[1])
 
 
 print("Completed Extracting Data")
