@@ -2,7 +2,70 @@
 
 {% block content %} 
     <div class="col-md-12">
-        <h1>Application not implemented yet</h1>
-        <p>Muy sadge :(</p>
+        <h1>Application</h1>
+        <p>Enter calculations here!</p>
+    </div>
+    <div>
+        <body>
+            <!--<form action="action_page.php" method="POST">-->
+            <form>
+                <div>
+                    <label for="country1">Country 1:</label>
+                    <input type="text" id="country1" name="country1" placeholder="Enter Country" required>
+                </div>
+
+                <div>
+                    <label for="country2">Country 2:</label>
+                    <input type="text" id="country2" name="country2" placeholder="Enter Country" required>
+                </div>
+
+                <br>
+
+                <div>
+                    <label for="playing">Country 1 is playing:</label>
+
+                    <label for="Home">Home</label>
+                    <input type="radio" name="playing" value="Country1home">
+
+                    <label for="Away">Away</label>
+                    <input type="radio" name="playing" value="Country1away">
+
+                    <label for="Neutral">Neutral</label>
+                    <input type="radio" name="playing" value="Neutral">
+                </div>
+
+                <br>
+
+                <div>
+                    <label for="country1">Country 1:</label>
+                    <select id="country" name="country">
+                        <option value="USA">CountryA</option>
+                        <option value="USA">CountryB</option>
+                        <option value="USA">CountryC</option>
+                    </select>
+                </div>
+
+                <div>
+                    <label for="country1">Country 2:</label>
+                    <select id="country" name="country">
+                        <option value="USA">CountryA</option>
+                        <option value="USA">CountryB</option>
+                        <option value="USA">CountryC</option>
+                    </select>
+                </div>
+
+                <br>
+
+                <div>
+                    <input type="reset">
+                </div>
+
+                <div>
+                    <input type="submit">
+                </div>
+
+            </form>
+
+        </body>
     </div>
 {% endblock %}
