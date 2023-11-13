@@ -2,43 +2,42 @@
 import pandas as pd
 import numpy as np
 from sklearn.linear_model import LogisticRegression
-<<<<<<< HEAD
+
 from sklearn.model_selection import train_test_split
-from sklearn.metrics import confusion_matrix
+from sklearn.preprocessing import StandardScaler
+from sklearn.metrics import (
+    confusion_matrix, classification_report, precision_score)
 import matplotlib.pyplot as plt
 import seaborn as sns
+from sklearn.pipeline import make_pipeline
 from sklearn.metrics import precision_score
-=======
-from sklearn.model_selection import train_test_split 
->>>>>>> master
+
+
 # We will want to use k-fold for the final model optimally instead of train_test_split
 
 
 # Global Variables
 data_location = 'data.csv'
 game_dataframe = pd.read_csv(data_location)
-<<<<<<< HEAD
+
 game_dataframe = game_dataframe.drop(
     columns=['date', 'Team A', 'TeamB', 'A_score', 'B_score', 'A_minus_B'])
-=======
-game_dataframe = game_dataframe.drop(columns=['date', 'Team A', 'TeamB', 'A_minus_B'])
->>>>>>> master
+
 
 game_dataframe = pd.get_dummies(game_dataframe, drop_first=True)
 
 # Test Train Split
 X_train, X_test, y_train, y_test = train_test_split(
-<<<<<<< HEAD
+
+
     game_dataframe.drop(columns=['A_result_Tie', 'A_result_Win']),
-=======
-    game_dataframe.drop(columns=['A_result_Tie', 'A_result_Win']), 
->>>>>>> master
+
     game_dataframe['A_result_Win']
 )
 
 # Train the model using the training data
-<<<<<<< HEAD
-LogReg = LogisticRegression(solver='newton-cg')
+
+LogReg = make_pipeline(StandardScaler(), LogisticRegression(solver='lbfgs'))
 LogReg.fit(X_train, y_train)
 
 y_pred = LogReg.predict(X_test)
@@ -50,10 +49,27 @@ plt.xlabel('Predicted')
 plt.ylabel('Actual')
 plt.title('Confusion Matrix')
 plt.show()
+print(classification_report(y_test, y_pred))
 print("precision score: {}".format(precision_score(y_test, y_pred)))
-=======
-LogReg = LogisticRegression(solver='lbfgs')
-LogReg.fit(X_train, y_train)
 
-print(LogReg.predict(X_test))
->>>>>>> master
+prob = LogReg.predict_proba(X_test)
+
+counter = 0
+actual = y_test.tolist()
+for index, line in enumerate(prob):
+    if counter > 100:
+        break
+
+    if y_pred[index]:
+        line = np.append(line, ['Predicted: Win'])
+    else:
+        line = np.append(line, ['Predicted: Lose/Tie'])
+
+    if actual[index]:
+        line = np.append(line, ['Actual: Win'])
+    else:
+        line = np.append(line, ['Actual: Lose/Tie'])
+
+    counter += 1
+
+    print(line)
