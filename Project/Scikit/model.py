@@ -32,15 +32,46 @@ X_train, X_test, y_train, y_test = train_test_split(
 
     game_dataframe.drop(columns=['A_result_Tie', 'A_result_Win']),
 
-    game_dataframe['A_result_Win']
+    game_dataframe['A_result_Win'],
+    test_size=0.2,
+    random_state=42
 )
 
 # Train the model using the training data
 
-LogReg = make_pipeline(StandardScaler(), LogisticRegression(solver='lbfgs'))
-LogReg.fit(X_train, y_train)
+# LogReg = make_pipeline(StandardScaler(), LogisticRegression(solver='lbfgs'))
+# LogReg.fit(X_train, y_train)
 
-y_pred = LogReg.predict(X_test)
+# y_pred = LogReg.predict(X_test)
+
+# experiment
+C_values = [0.001, 0.01, 0.1, 1, 10, 100]
+
+penalties = ['11', '12']
+
+best_model = None
+best_precision = 0
+
+for penalty in penalties:
+    for C_value in C_values:
+        LogReg = make_pipeline(
+            StandardScaler(),
+            LogisticRegression(solver='lbfgs', penalty=penalty, C=C_value)
+
+        )
+        LogReg.fit(X_train, y_train)
+
+        y_pred = LogReg.predict(X_test)
+        precision = precision_score(y_test, y_pred)
+
+        if precision > best_precision:
+            best_precision = precision
+            best_model = LogReg
+
+
+print("Best Model: " + best_model)
+print("Best Precision Score: ", best_precision)
+
 cm = confusion_matrix(y_test, y_pred)
 
 plt.figure(figsize=(6, 4))
@@ -55,21 +86,24 @@ print("precision score: {}".format(precision_score(y_test, y_pred)))
 prob = LogReg.predict_proba(X_test)
 
 counter = 0
-actual = y_test.tolist()
+actual = np.array(y_test).tolist()
 for index, line in enumerate(prob):
     if counter > 100:
         break
 
+    line_with_prob = np.append(
+        line, ['Predicted Probability: {:.3f}'.format(line[1])])
+
     if y_pred[index]:
-        line = np.append(line, ['Predicted: Win'])
+        line_with_prob = np.append(line_with_prob, ['Predicted: Win'])
     else:
-        line = np.append(line, ['Predicted: Lose/Tie'])
+        line_with_prob = np.append(line_with_prob, ['Predicted: Lose/Tie'])
 
     if actual[index]:
-        line = np.append(line, ['Actual: Win'])
+        line_with_prob = np.append(line_with_prob, ['Actual: Win'])
     else:
-        line = np.append(line, ['Actual: Lose/Tie'])
+        line_with_prob = np.append(line_with_prob, ['Actual: Lose/Tie'])
 
     counter += 1
 
-    print(line)
+    print(line_with_prob)
