@@ -42,6 +42,11 @@ body {
     box-shadow: 7px 5px 5px rgba(120, 120, 120, .5)
   }
 
+  .calc-widget {
+    margin-bottom: 1rem;
+    min-height: 10rem;
+  }
+
   /* Fade in transition */
   .fade-in {
     animation: fadeIn 2.5s;
