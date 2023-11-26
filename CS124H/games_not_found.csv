@@ -1,0 +1,3011 @@
+Team a,Team b,year,A status,B status
+DR Congo,Ivory Coast,1992,False,True
+Ivory Coast,DR Congo,1992,True,False
+Morocco,DR Congo,1992,True,False
+DR Congo,Morocco,1992,False,True
+Cameroon,DR Congo,1992,True,False
+DR Congo,Cameroon,1992,False,True
+Nigeria,DR Congo,1992,True,False
+DR Congo,Nigeria,1992,False,True
+Saint Vincent and the Grenadines,Curacao,1992,True,False
+Curacao,Saint Vincent and the Grenadines,1992,False,True
+Dominica,Guadeloupe,1992,False,False
+Guadeloupe,Dominica,1992,False,False
+Barbados,Curacao,1992,True,False
+Curacao,Barbados,1992,False,True
+Grenada,Curacao,1992,True,False
+Curacao,Grenada,1992,False,True
+Cayman Islands,Martinique,1992,False,False
+Martinique,Cayman Islands,1992,False,False
+Saint Kitts and Nevis,British Virgin Islands,1992,False,False
+British Virgin Islands,Saint Kitts and Nevis,1992,False,False
+Antigua and Barbuda,British Virgin Islands,1992,True,False
+British Virgin Islands,Antigua and Barbuda,1992,False,True
+Curacao,Antigua and Barbuda,1992,False,True
+Antigua and Barbuda,Curacao,1992,True,False
+Antigua and Barbuda,Curacao,1992,True,False
+Curacao,Antigua and Barbuda,1992,False,True
+French Guiana,Guyana,1992,False,True
+Guyana,French Guiana,1992,True,False
+Aruba,French Guiana,1992,False,False
+French Guiana,Aruba,1992,False,False
+Congo,Guadeloupe,1992,True,False
+Guadeloupe,Congo,1992,False,True
+Suriname,French Guiana,1992,True,False
+French Guiana,Suriname,1992,False,True
+Moldova,Lithuania,1992,False,True
+Lithuania,Moldova,1992,True,False
+Kazakhstan,Turkmenistan,1992,False,False
+Turkmenistan,Kazakhstan,1992,False,False
+North Korea,Taiwan,1992,True,False
+Taiwan,North Korea,1992,False,True
+Macau,Hong Kong,1992,False,True
+Hong Kong,Macau,1992,True,False
+Hong Kong,Taiwan,1992,True,False
+Taiwan,Hong Kong,1992,False,True
+North Korea,Macau,1992,True,False
+Macau,North Korea,1992,False,True
+Guatemala,Nicaragua,1992,True,False
+Nicaragua,Guatemala,1992,False,True
+Macau,Taiwan,1992,False,False
+Taiwan,Macau,1992,False,False
+Guinea-Bissau,Cape Verde,1992,True,False
+Cape Verde,Guinea-Bissau,1992,False,True
+Tajikistan,Uzbekistan,1992,False,False
+Uzbekistan,Tajikistan,1992,False,False
+Guadeloupe,Jamaica,1992,False,True
+Jamaica,Guadeloupe,1992,True,False
+Antigua and Barbuda,Martinique,1992,True,False
+Martinique,Antigua and Barbuda,1992,False,True
+Jamaica,Martinique,1992,True,False
+Martinique,Jamaica,1992,False,True
+Cuba,Martinique,1992,True,False
+Martinique,Cuba,1992,False,True
+Vanuatu,New Zealand,1992,False,True
+New Zealand,Vanuatu,1992,True,False
+Cape Verde,Guinea-Bissau,1992,False,True
+Guinea-Bissau,Cape Verde,1992,True,False
+China PR,Slovakia,1992,True,False
+Slovakia,China PR,1992,False,True
+Uzbekistan,Turkmenistan,1992,False,False
+Turkmenistan,Uzbekistan,1992,False,False
+Sudan,Chad,1992,True,False
+Chad,Sudan,1992,False,True
+New Zealand,Vanuatu,1992,True,False
+Vanuatu,New Zealand,1992,False,True
+Kazakhstan,Libya,1992,False,True
+Libya,Kazakhstan,1992,True,False
+Guinea-Bissau,Cape Verde,1992,True,False
+Cape Verde,Guinea-Bissau,1992,False,True
+Turkmenistan,Tajikistan,1992,False,False
+Tajikistan,Turkmenistan,1992,False,False
+New Caledonia,Tahiti,1992,False,True
+Tahiti,New Caledonia,1992,True,False
+Kazakhstan,Uzbekistan,1992,False,False
+Uzbekistan,Kazakhstan,1992,False,False
+Nicaragua,El Salvador,1992,False,True
+El Salvador,Nicaragua,1992,True,False
+Vanuatu,Tahiti,1992,False,True
+Tahiti,Vanuatu,1992,True,False
+New Caledonia,Tahiti,1992,False,True
+Tahiti,New Caledonia,1992,True,False
+El Salvador,Nicaragua,1992,True,False
+Nicaragua,El Salvador,1992,False,True
+Vanuatu,New Caledonia,1992,False,False
+New Caledonia,Vanuatu,1992,False,False
+Vanuatu,Solomon Islands,1992,False,True
+Solomon Islands,Vanuatu,1992,True,False
+Fiji,New Caledonia,1992,True,False
+New Caledonia,Fiji,1992,False,True
+New Caledonia,Solomon Islands,1992,False,True
+Solomon Islands,New Caledonia,1992,True,False
+Vanuatu,Fiji,1992,False,True
+Fiji,Vanuatu,1992,True,False
+Lesotho,Namibia,1992,True,False
+Namibia,Lesotho,1992,False,True
+Lesotho,Namibia,1992,True,False
+Namibia,Lesotho,1992,False,True
+DR Congo,Mozambique,1992,False,True
+Mozambique,DR Congo,1992,True,False
+Moldova,Pakistan,1992,False,True
+Pakistan,Moldova,1992,True,False
+Moldova,Sudan,1992,False,True
+Sudan,Moldova,1992,True,False
+Jordan,Moldova,1992,True,False
+Moldova,Jordan,1992,False,True
+Uzbekistan,Kyrgyzstan,1992,False,False
+Kyrgyzstan,Uzbekistan,1992,False,False
+Iraq,Moldova,1992,True,False
+Moldova,Iraq,1992,False,True
+Congo,Moldova,1992,True,False
+Moldova,Congo,1992,False,True
+Kenya,DR Congo,1992,True,False
+DR Congo,Kenya,1992,False,True
+Lithuania,Georgia,1992,True,False
+Georgia,Lithuania,1992,False,True
+Syria,Palestine,1992,True,False
+Palestine,Syria,1992,False,True
+Fiji,Vanuatu,1992,True,False
+Vanuatu,Fiji,1992,False,True
+Saudi Arabia,Palestine,1992,True,False
+Palestine,Saudi Arabia,1992,False,True
+Turkmenistan,Kazakhstan,1992,False,False
+Kazakhstan,Turkmenistan,1992,False,False
+Georgia,Azerbaijan,1992,False,False
+Azerbaijan,Georgia,1992,False,False
+Kyrgyzstan,Kazakhstan,1992,False,False
+Kazakhstan,Kyrgyzstan,1992,False,False
+Vanuatu,Fiji,1992,False,True
+Fiji,Vanuatu,1992,True,False
+Kyrgyzstan,Uzbekistan,1992,False,False
+Uzbekistan,Kyrgyzstan,1992,False,False
+Gabon,Chad,1992,True,False
+Chad,Gabon,1992,False,True
+DR Congo,Liberia,1992,False,True
+Liberia,DR Congo,1992,True,False
+Madagascar,Namibia,1992,True,False
+Namibia,Madagascar,1992,False,True
+Armenia,Moldova,1992,False,False
+Moldova,Armenia,1992,False,False
+Lithuania,Slovakia,1992,True,False
+Slovakia,Lithuania,1992,False,True
+Turkmenistan,Kyrgyzstan,1992,False,False
+Kyrgyzstan,Turkmenistan,1992,False,False
+Uzbekistan,Kazakhstan,1992,False,False
+Kazakhstan,Uzbekistan,1992,False,False
+Kazakhstan,Kyrgyzstan,1992,False,False
+Kyrgyzstan,Kazakhstan,1992,False,False
+Namibia,Zambia,1992,False,True
+Zambia,Namibia,1992,True,False
+Eswatini,DR Congo,1992,True,False
+DR Congo,Eswatini,1992,False,True
+Turkmenistan,Uzbekistan,1992,False,False
+Uzbekistan,Turkmenistan,1992,False,False
+Ethiopia,Zanzibar,1992,True,False
+Zanzibar,Ethiopia,1992,False,True
+Tanzania,Zanzibar,1992,True,False
+Zanzibar,Tanzania,1992,False,True
+Zambia,Zanzibar,1992,True,False
+Zanzibar,Zambia,1992,False,True
+Malawi,Zanzibar,1992,True,False
+Zanzibar,Malawi,1992,False,True
+Tanzania,Namibia,1992,True,False
+Namibia,Tanzania,1992,False,True
+Cyprus,Georgia,1992,True,False
+Georgia,Cyprus,1992,False,True
+DR Congo,Cameroon,1993,False,True
+Cameroon,DR Congo,1993,True,False
+Namibia,Madagascar,1993,False,True
+Madagascar,Namibia,1993,True,False
+Zambia,Namibia,1993,True,False
+Namibia,Zambia,1993,False,True
+Cameroon,DR Congo,1993,True,False
+DR Congo,Cameroon,1993,False,True
+Martinique,French Guiana,1993,False,False
+French Guiana,Martinique,1993,False,False
+Cyprus,Czech Republic,1993,True,False
+Czech Republic,Cyprus,1993,False,True
+French Guiana,Guadeloupe,1993,False,False
+Guadeloupe,French Guiana,1993,False,False
+Saint Kitts and Nevis,British Virgin Islands,1993,False,False
+British Virgin Islands,Saint Kitts and Nevis,1993,False,False
+Dominican Republic,British Virgin Islands,1993,True,False
+British Virgin Islands,Dominican Republic,1993,False,True
+Saint Kitts and Nevis,Dominican Republic,1993,False,True
+Dominican Republic,Saint Kitts and Nevis,1993,True,False
+Lesotho,DR Congo,1993,True,False
+DR Congo,Lesotho,1993,False,True
+Guadeloupe,Martinique,1993,False,False
+Martinique,Guadeloupe,1993,False,False
+Grenada,Dominica,1993,True,False
+Dominica,Grenada,1993,False,True
+Mozambique,DR Congo,1993,True,False
+DR Congo,Mozambique,1993,False,True
+Dominica,Saint Lucia,1993,False,True
+Saint Lucia,Dominica,1993,True,False
+Czech Republic,Wales,1993,False,True
+Wales,Czech Republic,1993,True,False
+Dominica,Saint Vincent and the Grenadines,1993,False,True
+Saint Vincent and the Grenadines,Dominica,1993,True,False
+Macau,Saudi Arabia,1993,False,True
+Saudi Arabia,Macau,1993,True,False
+Macau,Kuwait,1993,False,True
+Kuwait,Macau,1993,True,False
+Malaysia,Macau,1993,True,False
+Macau,Malaysia,1993,False,True
+Saudi Arabia,Macau,1993,True,False
+Macau,Saudi Arabia,1993,False,True
+Kuwait,Macau,1993,True,False
+Macau,Kuwait,1993,False,True
+Macau,Malaysia,1993,False,True
+Malaysia,Macau,1993,True,False
+Jamaica,Saint Kitts and Nevis,1993,True,False
+Saint Kitts and Nevis,Jamaica,1993,False,True
+Martinique,Saint Lucia,1993,False,True
+Saint Lucia,Martinique,1993,True,False
+Burkina Faso,Guadeloupe,1993,True,False
+Guadeloupe,Burkina Faso,1993,False,True
+Saint Kitts and Nevis,Puerto Rico,1993,False,True
+Puerto Rico,Saint Kitts and Nevis,1993,True,False
+Azerbaijan,Georgia,1993,False,False
+Georgia,Azerbaijan,1993,False,False
+Martinique,Trinidad and Tobago,1993,False,True
+Trinidad and Tobago,Martinique,1993,True,False
+Martinique,Saint Kitts and Nevis,1993,False,False
+Saint Kitts and Nevis,Martinique,1993,False,False
+Jamaica,Martinique,1993,True,False
+Martinique,Jamaica,1993,False,True
+Trinidad and Tobago,Saint Kitts and Nevis,1993,True,False
+Saint Kitts and Nevis,Trinidad and Tobago,1993,False,True
+Czech Republic,Romania,1993,False,True
+Romania,Czech Republic,1993,True,False
+Turkmenistan,Tajikistan,1993,False,False
+Tajikistan,Turkmenistan,1993,False,False
+Azerbaijan,Tajikistan,1993,False,False
+Tajikistan,Azerbaijan,1993,False,False
+Azerbaijan,Kyrgyzstan,1993,False,False
+Kyrgyzstan,Azerbaijan,1993,False,False
+Pakistan,Turkmenistan,1993,True,False
+Turkmenistan,Pakistan,1993,False,True
+Iran,Turkmenistan,1993,True,False
+Turkmenistan,Iran,1993,False,True
+Kyrgyzstan,Tajikistan,1993,False,False
+Tajikistan,Kyrgyzstan,1993,False,False
+Martinique,Trinidad and Tobago,1993,False,True
+Trinidad and Tobago,Martinique,1993,True,False
+Iran,Tajikistan,1993,True,False
+Tajikistan,Iran,1993,False,True
+Iran,Turkmenistan,1993,True,False
+Turkmenistan,Iran,1993,False,True
+South Korea,Czech Republic,1993,True,False
+Czech Republic,South Korea,1993,False,True
+Faroe Islands,Czech Republic,1993,True,False
+Czech Republic,Faroe Islands,1993,False,True
+Taiwan,Syria,1993,False,True
+Syria,Taiwan,1993,True,False
+Iran,Taiwan,1993,True,False
+Taiwan,Iran,1993,False,True
+South Korea,Czech Republic,1993,True,False
+Czech Republic,South Korea,1993,False,True
+Oman,Taiwan,1993,True,False
+Taiwan,Oman,1993,False,True
+Syria,Taiwan,1993,True,False
+Taiwan,Syria,1993,False,True
+Taiwan,Iran,1993,False,True
+Iran,Taiwan,1993,True,False
+Taiwan,Oman,1993,False,True
+Oman,Taiwan,1993,True,False
+DR Congo,Kenya,1993,False,True
+Kenya,DR Congo,1993,True,False
+Mexico,Martinique,1993,True,False
+Martinique,Mexico,1993,False,True
+Canada,Martinique,1993,True,False
+Martinique,Canada,1993,False,True
+Costa Rica,Martinique,1993,True,False
+Martinique,Costa Rica,1993,False,True
+DR Congo,Lesotho,1993,False,True
+Lesotho,DR Congo,1993,True,False
+Wales,Czech Republic,1993,True,False
+Czech Republic,Wales,1993,False,True
+Slovenia,North Macedonia,1993,True,False
+North Macedonia,Slovenia,1993,False,True
+Liechtenstein,Estonia,1993,False,True
+Estonia,Liechtenstein,1993,True,False
+Czech Republic,Cyprus,1993,False,True
+Cyprus,Czech Republic,1993,True,False
+Antigua and Barbuda,Saint Kitts and Nevis,1993,True,False
+Saint Kitts and Nevis,Antigua and Barbuda,1993,False,True
+Belgium,Czech Republic,1993,True,False
+Czech Republic,Belgium,1993,False,True
+Suriname,French Guiana,1994,True,False
+French Guiana,Suriname,1994,False,True
+Guyana,French Guiana,1994,True,False
+French Guiana,Guyana,1994,False,True
+Dominica,Antigua and Barbuda,1994,False,True
+Antigua and Barbuda,Dominica,1994,True,False
+Saint Kitts and Nevis,Dominica,1994,False,False
+Dominica,Saint Kitts and Nevis,1994,False,False
+Cayman Islands,British Virgin Islands,1994,True,False
+British Virgin Islands,Cayman Islands,1994,False,True
+Jamaica,British Virgin Islands,1994,True,False
+British Virgin Islands,Jamaica,1994,False,True
+Congo,DR Congo,1994,True,False
+DR Congo,Congo,1994,False,True
+Gabon,DR Congo,1994,True,False
+DR Congo,Gabon,1994,False,True
+North Macedonia,Slovenia,1994,False,True
+Slovenia,North Macedonia,1994,True,False
+Mali,DR Congo,1994,True,False
+DR Congo,Mali,1994,False,True
+Tunisia,DR Congo,1994,True,False
+DR Congo,Tunisia,1994,False,True
+DR Congo,Nigeria,1994,False,True
+Nigeria,DR Congo,1994,True,False
+Martinique,Suriname,1994,False,True
+Suriname,Martinique,1994,True,False
+Martinique,Haiti,1994,False,True
+Haiti,Martinique,1994,True,False
+Martinique,Cayman Islands,1994,False,True
+Cayman Islands,Martinique,1994,True,False
+Kyrgyzstan,Turkmenistan,1994,False,True
+Turkmenistan,Kyrgyzstan,1994,True,False
+Martinique,Guadeloupe,1994,False,False
+Guadeloupe,Martinique,1994,False,False
+Kyrgyzstan,Tajikistan,1994,False,True
+Tajikistan,Kyrgyzstan,1994,True,False
+Guadeloupe,Suriname,1994,False,True
+Suriname,Guadeloupe,1994,True,False
+Kazakhstan,Kyrgyzstan,1994,True,False
+Kyrgyzstan,Kazakhstan,1994,False,True
+Trinidad and Tobago,Martinique,1994,True,False
+Martinique,Trinidad and Tobago,1994,False,True
+Uzbekistan,Kyrgyzstan,1994,True,False
+Kyrgyzstan,Uzbekistan,1994,False,True
+North Macedonia,Albania,1994,False,True
+Albania,North Macedonia,1994,True,False
+North Macedonia,Estonia,1994,False,True
+Estonia,North Macedonia,1994,True,False
+Papua New Guinea,New Caledonia,1994,False,False
+New Caledonia,Papua New Guinea,1994,False,False
+Fiji,New Caledonia,1994,True,False
+New Caledonia,Fiji,1994,False,True
+Solomon Islands,Papua New Guinea,1994,True,False
+Papua New Guinea,Solomon Islands,1994,False,True
+Vanuatu,New Caledonia,1994,False,False
+New Caledonia,Vanuatu,1994,False,False
+Papua New Guinea,Fiji,1994,False,True
+Fiji,Papua New Guinea,1994,True,False
+Solomon Islands,Vanuatu,1994,True,False
+Vanuatu,Solomon Islands,1994,False,True
+Vanuatu,Papua New Guinea,1994,False,False
+Papua New Guinea,Vanuatu,1994,False,False
+Solomon Islands,New Caledonia,1994,True,False
+New Caledonia,Solomon Islands,1994,False,True
+Vanuatu,Fiji,1994,False,True
+Fiji,Vanuatu,1994,True,False
+Congo,DR Congo,1994,True,False
+DR Congo,Congo,1994,False,True
+DR Congo,Congo,1994,False,True
+Congo,DR Congo,1994,True,False
+DR Congo,Congo,1994,False,True
+Congo,DR Congo,1994,True,False
+North Macedonia,Turkey,1994,False,True
+Turkey,North Macedonia,1994,True,False
+DR Congo,Malawi,1994,False,True
+Malawi,DR Congo,1994,True,False
+North Macedonia,Denmark,1994,False,True
+Denmark,North Macedonia,1994,True,False
+North Macedonia,Spain,1994,False,True
+Spain,North Macedonia,1994,True,False
+Cameroon,DR Congo,1994,True,False
+DR Congo,Cameroon,1994,False,True
+Zimbabwe,DR Congo,1994,True,False
+DR Congo,Zimbabwe,1994,False,True
+Belgium,North Macedonia,1994,True,False
+North Macedonia,Belgium,1994,False,True
+Kenya,Djibouti,1994,True,False
+Djibouti,Kenya,1994,False,True
+Somalia,Djibouti,1994,True,False
+Djibouti,Somalia,1994,False,True
+Uganda,Seychelles,1994,True,False
+Seychelles,Uganda,1994,False,True
+Tanzania,Djibouti,1994,True,False
+Djibouti,Tanzania,1994,False,True
+North Macedonia,Cyprus,1994,False,True
+Cyprus,North Macedonia,1994,True,False
+Brazil,Serbia,1994,True,False
+Serbia,Brazil,1994,False,True
+Argentina,Serbia,1994,True,False
+Serbia,Argentina,1994,False,True
+DR Congo,Lesotho,1995,False,True
+Lesotho,DR Congo,1995,True,False
+South Korea,Serbia,1995,True,False
+Serbia,South Korea,1995,False,True
+Serbia,Uruguay,1995,False,True
+Uruguay,Serbia,1995,True,False
+Malawi,DR Congo,1995,True,False
+DR Congo,Malawi,1995,False,True
+North Macedonia,Bulgaria,1995,False,True
+Bulgaria,North Macedonia,1995,True,False
+DR Congo,Cameroon,1995,False,True
+Cameroon,DR Congo,1995,True,False
+Denmark,North Macedonia,1995,True,False
+North Macedonia,Denmark,1995,False,True
+Aruba,Curacao,1995,True,False
+Curacao,Aruba,1995,False,True
+French Guiana,Martinique,1995,False,False
+Martinique,French Guiana,1995,False,False
+Guadeloupe,Suriname,1995,False,True
+Suriname,Guadeloupe,1995,True,False
+Armenia,North Macedonia,1995,True,False
+North Macedonia,Armenia,1995,False,True
+French Guiana,Guadeloupe,1995,False,False
+Guadeloupe,French Guiana,1995,False,False
+Martinique,Suriname,1995,False,True
+Suriname,Martinique,1995,True,False
+French Guiana,Suriname,1995,False,True
+Suriname,French Guiana,1995,True,False
+Guadeloupe,Martinique,1995,False,False
+Martinique,Guadeloupe,1995,False,False
+Curacao,Aruba,1995,False,True
+Aruba,Curacao,1995,True,False
+Cuba,Curacao,1995,True,False
+Curacao,Cuba,1995,False,True
+Curacao,Puerto Rico,1995,False,True
+Puerto Rico,Curacao,1995,True,False
+Dominican Republic,Curacao,1995,True,False
+Curacao,Dominican Republic,1995,False,True
+Serbia,Russia,1995,False,True
+Russia,Serbia,1995,True,False
+DR Congo,Zimbabwe,1995,False,True
+Zimbabwe,DR Congo,1995,True,False
+North Macedonia,Belgium,1995,False,True
+Belgium,North Macedonia,1995,True,False
+French Guiana,Saint Vincent and the Grenadines,1995,False,True
+Saint Vincent and the Grenadines,French Guiana,1995,True,False
+Cayman Islands,French Guiana,1995,True,False
+French Guiana,Cayman Islands,1995,False,True
+Antigua and Barbuda,French Guiana,1995,True,False
+French Guiana,Antigua and Barbuda,1995,False,True
+Fiji,Papua New Guinea,1995,True,False
+Papua New Guinea,Fiji,1995,False,True
+Guam,Vanuatu,1995,False,False
+Vanuatu,Guam,1995,False,False
+New Caledonia,Solomon Islands,1995,False,True
+Solomon Islands,New Caledonia,1995,True,False
+Fiji,Guam,1995,True,False
+Guam,Fiji,1995,False,True
+Papua New Guinea,Vanuatu,1995,False,False
+Vanuatu,Papua New Guinea,1995,False,False
+Tahiti,New Caledonia,1995,True,False
+New Caledonia,Tahiti,1995,False,True
+Fiji,Vanuatu,1995,True,False
+Vanuatu,Fiji,1995,False,True
+Guam,Papua New Guinea,1995,False,False
+Papua New Guinea,Guam,1995,False,False
+Tahiti,Vanuatu,1995,True,False
+Vanuatu,Tahiti,1995,False,True
+Fiji,Vanuatu,1995,True,False
+Vanuatu,Fiji,1995,False,True
+Turkey,North Macedonia,1995,True,False
+North Macedonia,Turkey,1995,False,True
+North Macedonia,Armenia,1995,False,True
+Armenia,North Macedonia,1995,True,False
+Greece,Serbia,1995,True,False
+Serbia,Greece,1995,False,True
+Cyprus,North Macedonia,1995,True,False
+North Macedonia,Cyprus,1995,False,True
+El Salvador,Serbia,1995,True,False
+Serbia,El Salvador,1995,False,True
+Spain,North Macedonia,1995,True,False
+North Macedonia,Spain,1995,False,True
+Mexico,Serbia,1995,True,False
+Serbia,Mexico,1995,False,True
+Cape Verde,Mali,1995,False,True
+Mali,Cape Verde,1995,True,False
+Mauritania,Cape Verde,1995,True,False
+Cape Verde,Mauritania,1995,False,True
+Sierra Leone,Cape Verde,1995,True,False
+Cape Verde,Sierra Leone,1995,False,True
+Cape Verde,Guinea-Bissau,1995,False,True
+Guinea-Bissau,Cape Verde,1995,True,False
+Kenya,Zanzibar,1995,True,False
+Zanzibar,Kenya,1995,False,True
+Zanzibar,Rwanda,1995,False,True
+Rwanda,Zanzibar,1995,True,False
+Albania,Bosnia and Herzegovina,1995,True,False
+Bosnia and Herzegovina,Albania,1995,False,True
+Uganda,Zanzibar,1995,True,False
+Zanzibar,Uganda,1995,False,True
+Ethiopia,Zanzibar,1995,True,False
+Zanzibar,Ethiopia,1995,False,True
+DR Congo,Congo,1995,False,True
+Congo,DR Congo,1995,True,False
+DR Congo,Gabon,1996,False,True
+Gabon,DR Congo,1996,True,False
+Saudi Arabia,Kyrgyzstan,1996,True,False
+Kyrgyzstan,Saudi Arabia,1996,False,True
+Liberia,DR Congo,1996,True,False
+DR Congo,Liberia,1996,False,True
+Yemen,Kyrgyzstan,1996,True,False
+Kyrgyzstan,Yemen,1996,False,True
+Ghana,DR Congo,1996,True,False
+DR Congo,Ghana,1996,False,True
+Saudi Arabia,Kyrgyzstan,1996,True,False
+Kyrgyzstan,Saudi Arabia,1996,False,True
+Kyrgyzstan,Yemen,1996,False,True
+Yemen,Kyrgyzstan,1996,True,False
+Curacao,Grenada,1996,False,True
+Grenada,Curacao,1996,True,False
+French Guiana,Suriname,1996,False,True
+Suriname,French Guiana,1996,True,False
+North Macedonia,Malta,1996,False,True
+Malta,North Macedonia,1996,True,False
+Serbia,Romania,1996,False,True
+Romania,Serbia,1996,True,False
+Congo,DR Congo,1996,True,False
+DR Congo,Congo,1996,False,True
+Suriname,French Guiana,1996,True,False
+French Guiana,Suriname,1996,False,True
+North Macedonia,Liechtenstein,1996,False,True
+Liechtenstein,North Macedonia,1996,True,False
+Martinique,Saint Lucia,1996,False,True
+Saint Lucia,Martinique,1996,True,False
+Serbia,Faroe Islands,1996,False,True
+Faroe Islands,Serbia,1996,True,False
+DR Congo,Congo,1996,False,True
+Congo,DR Congo,1996,True,False
+Saint Lucia,Martinique,1996,True,False
+Martinique,Saint Lucia,1996,False,True
+Dominican Republic,Curacao,1996,True,False
+Curacao,Dominican Republic,1996,False,True
+Curacao,Dominican Republic,1996,False,True
+Dominican Republic,Curacao,1996,True,False
+Mexico,Serbia,1996,True,False
+Serbia,Mexico,1996,False,True
+Martinique,Haiti,1996,False,True
+Haiti,Martinique,1996,True,False
+Japan,Serbia,1996,True,False
+Serbia,Japan,1996,False,True
+Cuba,Martinique,1996,True,False
+Martinique,Cuba,1996,False,True
+Bulgaria,North Macedonia,1996,True,False
+North Macedonia,Bulgaria,1996,False,True
+Iceland,North Macedonia,1996,True,False
+North Macedonia,Iceland,1996,False,True
+Mauritius,DR Congo,1996,True,False
+DR Congo,Mauritius,1996,False,True
+Serbia,Malta,1996,False,True
+Malta,Serbia,1996,True,False
+Trinidad and Tobago,Martinique,1996,True,False
+Martinique,Trinidad and Tobago,1996,False,True
+Martinique,Suriname,1996,False,True
+Suriname,Martinique,1996,True,False
+DR Congo,Mauritius,1996,False,True
+Mauritius,DR Congo,1996,True,False
+South Korea,Guam,1996,True,False
+Guam,South Korea,1996,False,True
+Vietnam,Guam,1996,True,False
+Guam,Vietnam,1996,False,True
+Morocco,DR Congo,1996,True,False
+DR Congo,Morocco,1996,False,True
+Cambodia,Vietnam,1996,False,True
+Vietnam,Cambodia,1996,True,False
+Myanmar,Cambodia,1996,True,False
+Cambodia,Myanmar,1996,False,True
+Indonesia,Cambodia,1996,True,False
+Cambodia,Indonesia,1996,False,True
+Laos,Cambodia,1996,True,False
+Cambodia,Laos,1996,False,True
+DR Congo,Liberia,1996,False,True
+Liberia,DR Congo,1996,True,False
+Faroe Islands,Serbia,1996,True,False
+Serbia,Faroe Islands,1996,False,True
+Republic of Ireland,North Macedonia,1996,True,False
+North Macedonia,Republic of Ireland,1996,False,True
+Liechtenstein,North Macedonia,1996,True,False
+North Macedonia,Liechtenstein,1996,False,True
+South Africa,DR Congo,1996,True,False
+DR Congo,South Africa,1996,False,True
+Serbia,Czech Republic,1996,False,True
+Czech Republic,Serbia,1996,True,False
+Andorra,Estonia,1996,False,True
+Estonia,Andorra,1996,True,False
+Rwanda,Zanzibar,1996,True,False
+Zanzibar,Rwanda,1996,False,True
+Kenya,Zanzibar,1996,True,False
+Zanzibar,Kenya,1996,False,True
+Malta,North Macedonia,1996,True,False
+North Macedonia,Malta,1996,False,True
+North Macedonia,Romania,1996,False,True
+Romania,North Macedonia,1996,True,False
+Spain,Serbia,1996,True,False
+Serbia,Spain,1996,False,True
+Argentina,Serbia,1996,True,False
+Serbia,Argentina,1996,False,True
+DR Congo,Congo,1997,False,True
+Congo,DR Congo,1997,True,False
+Tanzania,DR Congo,1997,True,False
+DR Congo,Tanzania,1997,False,True
+Russia,Serbia,1997,True,False
+Serbia,Russia,1997,False,True
+Guyana,French Guiana,1997,True,False
+French Guiana,Guyana,1997,False,True
+Guyana,French Guiana,1997,True,False
+French Guiana,Guyana,1997,False,True
+Togo,DR Congo,1997,True,False
+DR Congo,Togo,1997,False,True
+Aruba,Curacao,1997,True,False
+Curacao,Aruba,1997,False,True
+North Macedonia,Australia,1997,False,True
+Australia,North Macedonia,1997,True,False
+Martinique,Saint Lucia,1997,False,True
+Saint Lucia,Martinique,1997,True,False
+Serbia,Russia,1997,False,True
+Russia,Serbia,1997,True,False
+Czech Republic,Serbia,1997,True,False
+Serbia,Czech Republic,1997,False,True
+North Macedonia,Republic of Ireland,1997,False,True
+Republic of Ireland,North Macedonia,1997,True,False
+DR Congo,Zambia,1997,False,True
+Zambia,DR Congo,1997,True,False
+DR Congo,South Africa,1997,False,True
+South Africa,DR Congo,1997,True,False
+Dominica,Martinique,1997,True,False
+Martinique,Dominica,1997,False,True
+Serbia,Spain,1997,False,True
+Spain,Serbia,1997,True,False
+Fiji,New Caledonia,1997,True,False
+New Caledonia,Fiji,1997,False,True
+Martinique,Dominica,1997,False,True
+Dominica,Martinique,1997,True,False
+Kyrgyzstan,Iran,1997,False,True
+Iran,Kyrgyzstan,1997,True,False
+Kyrgyzstan,Maldives,1997,False,True
+Maldives,Kyrgyzstan,1997,True,False
+Palestine,Jordan,1997,False,True
+Jordan,Palestine,1997,True,False
+North Macedonia,Iceland,1997,False,True
+Iceland,North Macedonia,1997,True,False
+Congo,DR Congo,1997,True,False
+DR Congo,Congo,1997,False,True
+Serbia,Slovakia,1997,False,True
+Slovakia,Serbia,1997,True,False
+Iran,Kyrgyzstan,1997,True,False
+Kyrgyzstan,Iran,1997,False,True
+Kyrgyzstan,Syria,1997,False,True
+Syria,Kyrgyzstan,1997,True,False
+Ghana,Serbia,1997,True,False
+Serbia,Ghana,1997,False,True
+Maldives,Kyrgyzstan,1997,True,False
+Kyrgyzstan,Maldives,1997,False,True
+Egypt,Serbia,1997,True,False
+Serbia,Egypt,1997,False,True
+South Korea,Serbia,1997,True,False
+Serbia,South Korea,1997,False,True
+Liberia,DR Congo,1997,True,False
+DR Congo,Liberia,1997,False,True
+DR Congo,Uganda,1997,False,True
+Uganda,DR Congo,1997,True,False
+Martinique,Trinidad and Tobago,1997,False,True
+Trinidad and Tobago,Martinique,1997,True,False
+Saint Kitts and Nevis,Martinique,1997,True,False
+Martinique,Saint Kitts and Nevis,1997,False,True
+DR Congo,Tanzania,1997,False,True
+Tanzania,DR Congo,1997,True,False
+DR Congo,Togo,1997,False,True
+Togo,DR Congo,1997,True,False
+Zambia,DR Congo,1997,True,False
+DR Congo,Zambia,1997,False,True
+Romania,North Macedonia,1997,True,False
+North Macedonia,Romania,1997,False,True
+Russia,Serbia,1997,True,False
+Serbia,Russia,1997,False,True
+Lithuania,North Macedonia,1997,True,False
+North Macedonia,Lithuania,1997,False,True
+Slovakia,Serbia,1997,True,False
+Serbia,Slovakia,1997,False,True
+North Macedonia,Lithuania,1997,False,True
+Lithuania,North Macedonia,1997,True,False
+Malta,Serbia,1997,True,False
+Serbia,Malta,1997,False,True
+Martinique,Cameroon,1997,False,True
+Cameroon,Martinique,1997,True,False
+Haiti,Martinique,1997,True,False
+Martinique,Haiti,1997,False,True
+Hungary,Serbia,1997,True,False
+Serbia,Hungary,1997,False,True
+Serbia,Hungary,1997,False,True
+Hungary,Serbia,1997,True,False
+Gambia,Cape Verde,1997,True,False
+Cape Verde,Gambia,1997,False,True
+Senegal,Cape Verde,1997,True,False
+Cape Verde,Senegal,1997,False,True
+Cape Verde,Mauritania,1997,False,True
+Mauritania,Cape Verde,1997,True,False
+Martinique,Trinidad and Tobago,1997,False,True
+Trinidad and Tobago,Martinique,1997,True,False
+Martinique,Trinidad and Tobago,1997,False,True
+Trinidad and Tobago,Martinique,1997,True,False
+Tunisia,Serbia,1998,True,False
+Serbia,Tunisia,1998,False,True
+DR Congo,Togo,1998,False,True
+Togo,DR Congo,1998,True,False
+Tunisia,DR Congo,1998,True,False
+DR Congo,Tunisia,1998,False,True
+Ghana,DR Congo,1998,True,False
+DR Congo,Ghana,1998,False,True
+Cameroon,DR Congo,1998,True,False
+DR Congo,Cameroon,1998,False,True
+Argentina,Serbia,1998,True,False
+Serbia,Argentina,1998,False,True
+DR Congo,South Africa,1998,False,True
+South Africa,DR Congo,1998,True,False
+Burkina Faso,DR Congo,1998,True,False
+DR Congo,Burkina Faso,1998,False,True
+Aruba,French Guiana,1998,True,False
+French Guiana,Aruba,1998,False,True
+Suriname,Curacao,1998,True,False
+Curacao,Suriname,1998,False,True
+Aruba,Curacao,1998,True,False
+Curacao,Aruba,1998,False,True
+Suriname,French Guiana,1998,True,False
+French Guiana,Suriname,1998,False,True
+Curacao,French Guiana,1998,False,False
+French Guiana,Curacao,1998,False,False
+Martinique,Barbados,1998,False,True
+Barbados,Martinique,1998,True,False
+Saint Lucia,Martinique,1998,True,False
+Martinique,Saint Lucia,1998,False,True
+Colombia,Serbia,1998,True,False
+Serbia,Colombia,1998,False,True
+North Macedonia,Bulgaria,1998,False,True
+Bulgaria,North Macedonia,1998,True,False
+Dominica,Guadeloupe,1998,True,False
+Guadeloupe,Dominica,1998,False,True
+Guadeloupe,British Virgin Islands,1998,False,True
+British Virgin Islands,Guadeloupe,1998,True,False
+Saint Kitts and Nevis,Guadeloupe,1998,True,False
+Guadeloupe,Saint Kitts and Nevis,1998,False,True
+North Macedonia,South Korea,1998,False,True
+South Korea,North Macedonia,1998,True,False
+Jamaica,North Macedonia,1998,True,False
+North Macedonia,Jamaica,1998,False,True
+Hungary,North Macedonia,1998,True,False
+North Macedonia,Hungary,1998,False,True
+Serbia,South Korea,1998,False,True
+South Korea,Serbia,1998,True,False
+United States,North Macedonia,1998,True,False
+North Macedonia,United States,1998,False,True
+Canada,North Macedonia,1998,True,False
+North Macedonia,Canada,1998,False,True
+Serbia,Nigeria,1998,False,True
+Nigeria,Serbia,1998,True,False
+North Macedonia,Bosnia and Herzegovina,1998,False,True
+Bosnia and Herzegovina,North Macedonia,1998,True,False
+Serbia,Japan,1998,False,True
+Japan,Serbia,1998,True,False
+Switzerland,Serbia,1998,True,False
+Serbia,Switzerland,1998,False,True
+Serbia,Iran,1998,False,True
+Iran,Serbia,1998,True,False
+Germany,Serbia,1998,True,False
+Serbia,Germany,1998,False,True
+United States,Serbia,1998,True,False
+Serbia,United States,1998,False,True
+Netherlands,Serbia,1998,True,False
+Serbia,Netherlands,1998,False,True
+Curacao,Haiti,1998,False,True
+Haiti,Curacao,1998,True,False
+Martinique,Dominica,1998,False,True
+Dominica,Martinique,1998,True,False
+Senegal,Cape Verde,1998,True,False
+Cape Verde,Senegal,1998,False,True
+Jamaica,Curacao,1998,True,False
+Curacao,Jamaica,1998,False,True
+Trinidad and Tobago,Martinique,1998,True,False
+Martinique,Trinidad and Tobago,1998,False,True
+Antigua and Barbuda,Martinique,1998,True,False
+Martinique,Antigua and Barbuda,1998,False,True
+Curacao,Cayman Islands,1998,False,True
+Cayman Islands,Curacao,1998,True,False
+Mali,Cape Verde,1998,True,False
+Cape Verde,Mali,1998,False,True
+Cape Verde,Mali,1998,False,True
+Mali,Cape Verde,1998,True,False
+Serbia,Switzerland,1998,False,True
+Switzerland,Serbia,1998,True,False
+Fiji,New Caledonia,1998,True,False
+New Caledonia,Fiji,1998,False,True
+North Macedonia,Malta,1998,False,True
+Malta,North Macedonia,1998,True,False
+Papua New Guinea,New Caledonia,1998,True,False
+New Caledonia,Papua New Guinea,1998,False,True
+Solomon Islands,New Caledonia,1998,True,False
+New Caledonia,Solomon Islands,1998,False,True
+Vanuatu,New Caledonia,1998,True,False
+New Caledonia,Vanuatu,1998,False,True
+Brazil,Serbia,1998,True,False
+Serbia,Brazil,1998,False,True
+North Macedonia,Egypt,1998,False,True
+Egypt,North Macedonia,1998,True,False
+Zambia,DR Congo,1998,True,False
+DR Congo,Zambia,1998,False,True
+Croatia,North Macedonia,1998,True,False
+North Macedonia,Croatia,1998,False,True
+Malta,North Macedonia,1998,True,False
+North Macedonia,Malta,1998,False,True
+Serbia,Republic of Ireland,1998,False,True
+Republic of Ireland,Serbia,1998,True,False
+Israel,Serbia,1998,True,False
+Serbia,Israel,1998,False,True
+Martinique,French Guiana,1999,False,False
+French Guiana,Martinique,1999,False,False
+Albania,North Macedonia,1999,True,False
+North Macedonia,Albania,1999,False,True
+Malta,Serbia,1999,True,False
+Serbia,Malta,1999,False,True
+Guadeloupe,Dominica,1999,False,True
+Dominica,Guadeloupe,1999,True,False
+Guadeloupe,Antigua and Barbuda,1999,False,True
+Antigua and Barbuda,Guadeloupe,1999,True,False
+Guadeloupe,Barbados,1999,False,True
+Barbados,Guadeloupe,1999,True,False
+Saint Lucia,Martinique,1999,True,False
+Martinique,Saint Lucia,1999,False,True
+Martinique,Saint Kitts and Nevis,1999,False,True
+Saint Kitts and Nevis,Martinique,1999,True,False
+Curacao,Grenada,1999,False,True
+Grenada,Curacao,1999,True,False
+Curacao,Suriname,1999,False,True
+Suriname,Curacao,1999,True,False
+Grenada,Guadeloupe,1999,True,False
+Guadeloupe,Grenada,1999,False,True
+Jamaica,Guadeloupe,1999,True,False
+Guadeloupe,Jamaica,1999,False,True
+North Macedonia,Croatia,1999,False,True
+Croatia,North Macedonia,1999,True,False
+Trinidad and Tobago,Guadeloupe,1999,True,False
+Guadeloupe,Trinidad and Tobago,1999,False,True
+Serbia,Malta,1999,False,True
+Malta,Serbia,1999,True,False
+Republic of Ireland,North Macedonia,1999,True,False
+North Macedonia,Republic of Ireland,1999,False,True
+Kenya,Zanzibar,1999,True,False
+Zanzibar,Kenya,1999,False,True
+Ethiopia,Zanzibar,1999,True,False
+Zanzibar,Ethiopia,1999,False,True
+Sudan,Zanzibar,1999,True,False
+Zanzibar,Sudan,1999,False,True
+Oman,Kyrgyzstan,1999,True,False
+Kyrgyzstan,Oman,1999,False,True
+Tajikistan,Kyrgyzstan,1999,True,False
+Kyrgyzstan,Tajikistan,1999,False,True
+Iraq,Kyrgyzstan,1999,True,False
+Kyrgyzstan,Iraq,1999,False,True
+Serbia,Croatia,1999,False,True
+Croatia,Serbia,1999,True,False
+Republic of Ireland,Serbia,1999,True,False
+Serbia,Republic of Ireland,1999,False,True
+Serbia,North Macedonia,1999,False,False
+North Macedonia,Serbia,1999,False,False
+North Macedonia,Serbia,1999,False,False
+Serbia,North Macedonia,1999,False,False
+Croatia,Serbia,1999,True,False
+Serbia,Croatia,1999,False,True
+North Macedonia,Republic of Ireland,1999,False,True
+Republic of Ireland,North Macedonia,1999,True,False
+North Macedonia,Serbia,2000,False,False
+Serbia,North Macedonia,2000,False,False
+Trinidad and Tobago,Curacao,2000,True,False
+Curacao,Trinidad and Tobago,2000,False,True
+Curacao,Trinidad and Tobago,2000,False,True
+Trinidad and Tobago,Curacao,2000,True,False
+Serbia,China PR,2000,False,True
+China PR,Serbia,2000,True,False
+Bosnia and Herzegovina,North Macedonia,2000,True,False
+North Macedonia,Bosnia and Herzegovina,2000,False,True
+New Caledonia,Solomon Islands,2000,False,True
+Solomon Islands,New Caledonia,2000,True,False
+Cape Verde,Algeria,2000,False,True
+Algeria,Cape Verde,2000,True,False
+Fiji,New Caledonia,2000,True,False
+New Caledonia,Fiji,2000,False,True
+New Caledonia,Papua New Guinea,2000,False,True
+Papua New Guinea,New Caledonia,2000,True,False
+Vanuatu,New Caledonia,2000,True,False
+New Caledonia,Vanuatu,2000,False,True
+Algeria,Cape Verde,2000,True,False
+Cape Verde,Algeria,2000,False,True
+North Macedonia,Albania,2000,False,True
+Albania,North Macedonia,2000,True,False
+Cape Verde,Gambia,2000,False,True
+Gambia,Cape Verde,2000,True,False
+Cape Verde,Sierra Leone,2000,False,True
+Sierra Leone,Cape Verde,2000,True,False
+Cape Verde,Senegal,2000,False,True
+Senegal,Cape Verde,2000,True,False
+Cape Verde,Guinea,2000,False,True
+Guinea,Cape Verde,2000,True,False
+Cape Verde,Senegal,2000,False,True
+Senegal,Cape Verde,2000,True,False
+Jordan,Kyrgyzstan,2000,True,False
+Kyrgyzstan,Jordan,2000,False,True
+China PR,Serbia,2000,True,False
+Serbia,China PR,2000,False,True
+Kyrgyzstan,Lebanon,2000,False,True
+Lebanon,Kyrgyzstan,2000,True,False
+Iraq,Kyrgyzstan,2000,True,False
+Kyrgyzstan,Iraq,2000,False,True
+South Korea,Serbia,2000,True,False
+Serbia,South Korea,2000,False,True
+South Korea,Serbia,2000,True,False
+Serbia,South Korea,2000,False,True
+South Korea,North Macedonia,2000,True,False
+North Macedonia,South Korea,2000,False,True
+Iran,North Macedonia,2000,True,False
+North Macedonia,Iran,2000,False,True
+New Caledonia,Vanuatu,2000,False,True
+Vanuatu,New Caledonia,2000,True,False
+Serbia,Slovenia,2000,False,True
+Slovenia,Serbia,2000,True,False
+New Caledonia,Vanuatu,2000,False,True
+Vanuatu,New Caledonia,2000,True,False
+Norway,Serbia,2000,True,False
+Serbia,Norway,2000,False,True
+Serbia,Spain,2000,False,True
+Spain,Serbia,2000,True,False
+Netherlands,Serbia,2000,True,False
+Serbia,Netherlands,2000,False,True
+Cape Verde,Angola,2000,False,True
+Angola,Cape Verde,2000,True,False
+Azerbaijan,North Macedonia,2000,True,False
+North Macedonia,Azerbaijan,2000,False,True
+Northern Ireland,Serbia,2000,True,False
+Serbia,Northern Ireland,2000,False,True
+Luxembourg,Serbia,2000,True,False
+Serbia,Luxembourg,2000,False,True
+Slovakia,North Macedonia,2000,True,False
+North Macedonia,Slovakia,2000,False,True
+Zanzibar,Tanzania,2000,False,True
+Tanzania,Zanzibar,2000,True,False
+North Macedonia,Azerbaijan,2000,False,True
+Azerbaijan,North Macedonia,2000,True,False
+Moldova,North Macedonia,2000,True,False
+North Macedonia,Moldova,2000,False,True
+Estonia,Kyrgyzstan,2000,True,False
+Kyrgyzstan,Estonia,2000,False,True
+North Macedonia,Hungary,2000,False,True
+Hungary,North Macedonia,2000,True,False
+Romania,Serbia,2000,True,False
+Serbia,Romania,2000,False,True
+Greece,Serbia,2000,True,False
+Serbia,Greece,2000,False,True
+Serbia,Bosnia and Herzegovina,2001,False,True
+Bosnia and Herzegovina,Serbia,2001,True,False
+Bangladesh,Serbia,2001,True,False
+Serbia,Bangladesh,2001,False,True
+Serbia,Romania,2001,False,True
+Romania,Serbia,2001,True,False
+Serbia,Japan,2001,False,True
+Japan,Serbia,2001,True,False
+Bosnia and Herzegovina,Serbia,2001,True,False
+Serbia,Bosnia and Herzegovina,2001,False,True
+Thailand,Kyrgyzstan,2001,True,False
+Kyrgyzstan,Thailand,2001,False,True
+Singapore,Kyrgyzstan,2001,True,False
+Kyrgyzstan,Singapore,2001,False,True
+Bahrain,Kyrgyzstan,2001,True,False
+Kyrgyzstan,Bahrain,2001,False,True
+Kyrgyzstan,Kuwait,2001,False,True
+Kuwait,Kyrgyzstan,2001,True,False
+Kyrgyzstan,Bahrain,2001,False,True
+Bahrain,Kyrgyzstan,2001,True,False
+Martinique,Saint Lucia,2001,False,True
+Saint Lucia,Martinique,2001,True,False
+Kuwait,Kyrgyzstan,2001,True,False
+Kyrgyzstan,Kuwait,2001,False,True
+Kyrgyzstan,Singapore,2001,False,True
+Singapore,Kyrgyzstan,2001,True,False
+North Macedonia,Czech Republic,2001,False,True
+Czech Republic,North Macedonia,2001,True,False
+Saint Lucia,Martinique,2001,True,False
+Martinique,Saint Lucia,2001,False,True
+Serbia,Switzerland,2001,False,True
+Switzerland,Serbia,2001,True,False
+Sweden,North Macedonia,2001,True,False
+North Macedonia,Sweden,2001,False,True
+North Macedonia,Turkey,2001,False,True
+Turkey,North Macedonia,2001,True,False
+Martinique,Guadeloupe,2001,False,False
+Guadeloupe,Martinique,2001,False,False
+Slovenia,Serbia,2001,True,False
+Serbia,Slovenia,2001,False,True
+Martinique,British Virgin Islands,2001,False,True
+British Virgin Islands,Martinique,2001,True,False
+Mauritania,Cape Verde,2001,True,False
+Cape Verde,Mauritania,2001,False,True
+Martinique,Cayman Islands,2001,False,True
+Cayman Islands,Martinique,2001,True,False
+Guadeloupe,Saint Lucia,2001,False,True
+Saint Lucia,Guadeloupe,2001,True,False
+Haiti,Guadeloupe,2001,True,False
+Guadeloupe,Haiti,2001,False,True
+Serbia,Russia,2001,False,True
+Russia,Serbia,2001,True,False
+Martinique,Jamaica,2001,False,True
+Jamaica,Martinique,2001,True,False
+Martinique,Barbados,2001,False,True
+Barbados,Martinique,2001,True,False
+Trinidad and Tobago,Martinique,2001,True,False
+Martinique,Trinidad and Tobago,2001,False,True
+Haiti,Martinique,2001,True,False
+Martinique,Haiti,2001,False,True
+Martinique,Cuba,2001,False,True
+Cuba,Martinique,2001,True,False
+North Macedonia,Moldova,2001,False,True
+Moldova,North Macedonia,2001,True,False
+Russia,Serbia,2001,True,False
+Serbia,Russia,2001,False,True
+Faroe Islands,Serbia,2001,True,False
+Serbia,Faroe Islands,2001,False,True
+Turkey,North Macedonia,2001,True,False
+North Macedonia,Turkey,2001,False,True
+Paraguay,Serbia,2001,True,False
+Serbia,Paraguay,2001,False,True
+Japan,Serbia,2001,True,False
+Serbia,Japan,2001,False,True
+North Macedonia,Qatar,2001,False,True
+Qatar,North Macedonia,2001,True,False
+Jamaica,Martinique,2001,True,False
+Martinique,Jamaica,2001,False,True
+Saint Kitts and Nevis,Martinique,2001,True,False
+Martinique,Saint Kitts and Nevis,2001,False,True
+Saudi Arabia,North Macedonia,2001,True,False
+North Macedonia,Saudi Arabia,2001,False,True
+Bulgaria,North Macedonia,2001,True,False
+North Macedonia,Bulgaria,2001,False,True
+Serbia,Faroe Islands,2001,False,True
+Faroe Islands,Serbia,2001,True,False
+North Macedonia,Sweden,2001,False,True
+Sweden,North Macedonia,2001,True,False
+Switzerland,Serbia,2001,True,False
+Serbia,Switzerland,2001,False,True
+Azerbaijan,North Macedonia,2001,True,False
+North Macedonia,Azerbaijan,2001,False,True
+Serbia,Slovenia,2001,False,True
+Slovenia,Serbia,2001,True,False
+Serbia,Luxembourg,2001,False,True
+Luxembourg,Serbia,2001,True,False
+North Macedonia,Slovakia,2001,False,True
+Slovakia,North Macedonia,2001,True,False
+Cape Verde,Gambia,2001,False,True
+Gambia,Cape Verde,2001,True,False
+Hungary,North Macedonia,2001,True,False
+North Macedonia,Hungary,2001,False,True
+Ethiopia,Zanzibar,2001,True,False
+Zanzibar,Ethiopia,2001,False,True
+Oman,North Macedonia,2001,True,False
+North Macedonia,Oman,2001,False,True
+Martinique,Guadeloupe,2002,False,False
+Guadeloupe,Martinique,2002,False,False
+Albania,North Macedonia,2002,True,False
+North Macedonia,Albania,2002,False,True
+Martinique,Haiti,2002,False,True
+Haiti,Martinique,2002,True,False
+Bahrain,North Macedonia,2002,True,False
+North Macedonia,Bahrain,2002,False,True
+Finland,North Macedonia,2002,True,False
+North Macedonia,Finland,2002,False,True
+Martinique,Costa Rica,2002,False,True
+Costa Rica,Martinique,2002,True,False
+Trinidad and Tobago,Martinique,2002,True,False
+Martinique,Trinidad and Tobago,2002,False,True
+Canada,Martinique,2002,True,False
+Martinique,Canada,2002,False,True
+Mexico,Serbia,2002,True,False
+Serbia,Mexico,2002,False,True
+New Caledonia,Papua New Guinea,2002,False,True
+Papua New Guinea,New Caledonia,2002,True,False
+Bosnia and Herzegovina,North Macedonia,2002,True,False
+North Macedonia,Bosnia and Herzegovina,2002,False,True
+Brazil,Serbia,2002,True,False
+Serbia,Brazil,2002,False,True
+North Macedonia,Finland,2002,False,True
+Finland,North Macedonia,2002,True,False
+Serbia,Lithuania,2002,False,True
+Lithuania,Serbia,2002,True,False
+Ecuador,Serbia,2002,True,False
+Serbia,Ecuador,2002,False,True
+Ukraine,Serbia,2002,True,False
+Serbia,Ukraine,2002,False,True
+Russia,Serbia,2002,True,False
+Serbia,Russia,2002,False,True
+Fiji,New Caledonia,2002,True,False
+New Caledonia,Fiji,2002,False,True
+Guadeloupe,Puerto Rico,2002,False,True
+Puerto Rico,Guadeloupe,2002,True,False
+Australia,New Caledonia,2002,True,False
+New Caledonia,Australia,2002,False,True
+New Caledonia,Vanuatu,2002,False,True
+Vanuatu,New Caledonia,2002,True,False
+Puerto Rico,Guadeloupe,2002,True,False
+Guadeloupe,Puerto Rico,2002,False,True
+Guyana,Curacao,2002,True,False
+Curacao,Guyana,2002,False,True
+Curacao,Guyana,2002,False,True
+Guyana,Curacao,2002,True,False
+Bosnia and Herzegovina,Serbia,2002,True,False
+Serbia,Bosnia and Herzegovina,2002,False,True
+North Macedonia,Malta,2002,False,True
+Malta,North Macedonia,2002,True,False
+Tanzania,Zanzibar,2002,True,False
+Zanzibar,Tanzania,2002,False,True
+Czech Republic,Serbia,2002,True,False
+Serbia,Czech Republic,2002,False,True
+Mauritania,Cape Verde,2002,True,False
+Cape Verde,Mauritania,2002,False,True
+Liechtenstein,North Macedonia,2002,True,False
+North Macedonia,Liechtenstein,2002,False,True
+Martinique,Saint Lucia,2002,False,True
+Saint Lucia,Martinique,2002,True,False
+Italy,Serbia,2002,True,False
+Serbia,Italy,2002,False,True
+North Macedonia,Turkey,2002,False,True
+Turkey,North Macedonia,2002,True,False
+England,North Macedonia,2002,True,False
+North Macedonia,England,2002,False,True
+Serbia,Finland,2002,False,True
+Finland,Serbia,2002,True,False
+French Guiana,Suriname,2002,False,True
+Suriname,French Guiana,2002,True,False
+French Guiana,Suriname,2002,False,True
+Suriname,French Guiana,2002,True,False
+Martinique,Saint Kitts and Nevis,2002,False,True
+Saint Kitts and Nevis,Martinique,2002,True,False
+Saint Lucia,Martinique,2002,True,False
+Martinique,Saint Lucia,2002,False,True
+Grenada,Guadeloupe,2002,True,False
+Guadeloupe,Grenada,2002,False,True
+Jamaica,Guadeloupe,2002,True,False
+Guadeloupe,Jamaica,2002,False,True
+Barbados,Guadeloupe,2002,True,False
+Guadeloupe,Barbados,2002,False,True
+Antigua and Barbuda,Curacao,2002,True,False
+Curacao,Antigua and Barbuda,2002,False,True
+France,Serbia,2002,True,False
+Serbia,France,2002,False,True
+Luxembourg,Cape Verde,2002,True,False
+Cape Verde,Luxembourg,2002,False,True
+North Macedonia,Israel,2002,False,True
+Israel,North Macedonia,2002,True,False
+Haiti,Curacao,2002,True,False
+Curacao,Haiti,2002,False,True
+Martinique,Dominican Republic,2002,False,True
+Dominican Republic,Martinique,2002,True,False
+Martinique,Cuba,2002,False,True
+Cuba,Martinique,2002,True,False
+Rwanda,Zanzibar,2002,True,False
+Zanzibar,Rwanda,2002,False,True
+Cayman Islands,Martinique,2002,True,False
+Martinique,Cayman Islands,2002,False,True
+Ethiopia,Zanzibar,2002,True,False
+Zanzibar,Ethiopia,2002,False,True
+Zanzibar,Somalia,2002,False,True
+Somalia,Zanzibar,2002,True,False
+Zanzibar,Uganda,2002,False,True
+Uganda,Zanzibar,2002,True,False
+Croatia,North Macedonia,2003,True,False
+North Macedonia,Croatia,2003,False,True
+Barbados,Martinique,2003,True,False
+Martinique,Barbados,2003,False,True
+Serbia,Azerbaijan,2003,False,True
+Azerbaijan,Serbia,2003,True,False
+North Macedonia,Poland,2003,False,True
+Poland,North Macedonia,2003,True,False
+Martinique,French Guiana,2003,False,False
+French Guiana,Martinique,2003,False,False
+Guadeloupe,French Guiana,2003,False,False
+French Guiana,Guadeloupe,2003,False,False
+Kyrgyzstan,Afghanistan,2003,False,True
+Afghanistan,Kyrgyzstan,2003,True,False
+Nepal,Kyrgyzstan,2003,True,False
+Kyrgyzstan,Nepal,2003,False,True
+Guadeloupe,Cuba,2003,False,True
+Cuba,Guadeloupe,2003,True,False
+Haiti,Martinique,2003,True,False
+Martinique,Haiti,2003,False,True
+Serbia,Bulgaria,2003,False,True
+Bulgaria,Serbia,2003,True,False
+Jamaica,Martinique,2003,True,False
+Martinique,Jamaica,2003,False,True
+Trinidad and Tobago,Guadeloupe,2003,True,False
+Guadeloupe,Trinidad and Tobago,2003,False,True
+Cape Verde,Togo,2003,False,True
+Togo,Cape Verde,2003,True,False
+North Macedonia,Slovakia,2003,False,True
+Slovakia,North Macedonia,2003,True,False
+Guadeloupe,Antigua and Barbuda,2003,False,True
+Antigua and Barbuda,Guadeloupe,2003,True,False
+Saint Lucia,Martinique,2003,True,False
+Martinique,Saint Lucia,2003,False,True
+North Macedonia,Portugal,2003,False,True
+Portugal,North Macedonia,2003,True,False
+Martinique,Trinidad and Tobago,2003,False,True
+Trinidad and Tobago,Martinique,2003,True,False
+Martinique,Honduras,2003,False,True
+Honduras,Martinique,2003,True,False
+Germany,Serbia,2003,True,False
+Serbia,Germany,2003,False,True
+Senegal,Cape Verde,2003,True,False
+Cape Verde,Senegal,2003,False,True
+England,Serbia,2003,True,False
+Serbia,England,2003,False,True
+Guadeloupe,French Guiana,2003,False,False
+French Guiana,Guadeloupe,2003,False,False
+Finland,Serbia,2003,True,False
+Serbia,Finland,2003,False,True
+North Macedonia,Liechtenstein,2003,False,True
+Liechtenstein,North Macedonia,2003,True,False
+Togo,Cape Verde,2003,True,False
+Cape Verde,Togo,2003,False,True
+Azerbaijan,Serbia,2003,True,False
+Serbia,Azerbaijan,2003,False,True
+Turkey,North Macedonia,2003,True,False
+North Macedonia,Turkey,2003,False,True
+Cape Verde,Mauritania,2003,False,True
+Mauritania,Cape Verde,2003,True,False
+Papua New Guinea,New Caledonia,2003,True,False
+New Caledonia,Papua New Guinea,2003,False,True
+Kenya,Cape Verde,2003,True,False
+Cape Verde,Kenya,2003,False,True
+Tahiti,New Caledonia,2003,True,False
+New Caledonia,Tahiti,2003,False,True
+New Caledonia,Vanuatu,2003,False,True
+Vanuatu,New Caledonia,2003,True,False
+Fiji,New Caledonia,2003,True,False
+New Caledonia,Fiji,2003,False,True
+United States,Martinique,2003,True,False
+Martinique,United States,2003,False,True
+El Salvador,Martinique,2003,True,False
+Martinique,El Salvador,2003,False,True
+North Macedonia,Albania,2003,False,True
+Albania,North Macedonia,2003,True,False
+Serbia,Wales,2003,False,True
+Wales,Serbia,2003,True,False
+North Macedonia,England,2003,False,True
+England,North Macedonia,2003,True,False
+Serbia,Italy,2003,False,True
+Italy,Serbia,2003,True,False
+Slovakia,North Macedonia,2003,True,False
+North Macedonia,Slovakia,2003,False,True
+Ukraine,North Macedonia,2003,True,False
+North Macedonia,Ukraine,2003,False,True
+Wales,Serbia,2003,True,False
+Serbia,Wales,2003,False,True
+Eswatini,Cape Verde,2003,True,False
+Cape Verde,Eswatini,2003,False,True
+Cape Verde,Eswatini,2003,False,True
+Eswatini,Cape Verde,2003,True,False
+Poland,Serbia,2003,True,False
+Serbia,Poland,2003,False,True
+Pakistan,Kyrgyzstan,2003,True,False
+Kyrgyzstan,Pakistan,2003,False,True
+Sudan,Zanzibar,2003,True,False
+Zanzibar,Sudan,2003,False,True
+Rwanda,Zanzibar,2003,True,False
+Zanzibar,Rwanda,2003,False,True
+Kyrgyzstan,Pakistan,2003,False,True
+Pakistan,Kyrgyzstan,2003,True,False
+Cuba,Martinique,2004,True,False
+Martinique,Cuba,2004,False,True
+Suriname,Curacao,2004,True,False
+Curacao,Suriname,2004,False,True
+Curacao,Suriname,2004,False,True
+Suriname,Curacao,2004,True,False
+Guadeloupe,Saint Lucia,2004,False,True
+Saint Lucia,Guadeloupe,2004,True,False
+China PR,North Macedonia,2004,True,False
+North Macedonia,China PR,2004,False,True
+Curacao,Aruba,2004,False,True
+Aruba,Curacao,2004,True,False
+China PR,North Macedonia,2004,True,False
+North Macedonia,China PR,2004,False,True
+Antigua and Barbuda,Curacao,2004,True,False
+Curacao,Antigua and Barbuda,2004,False,True
+Kyrgyzstan,Tajikistan,2004,False,True
+Tajikistan,Kyrgyzstan,2004,True,False
+North Macedonia,Bosnia and Herzegovina,2004,False,True
+Bosnia and Herzegovina,North Macedonia,2004,True,False
+Curacao,Antigua and Barbuda,2004,False,True
+Antigua and Barbuda,Curacao,2004,True,False
+Kyrgyzstan,Syria,2004,False,True
+Syria,Kyrgyzstan,2004,True,False
+North Macedonia,Ukraine,2004,False,True
+Ukraine,North Macedonia,2004,True,False
+Serbia,Norway,2004,False,True
+Norway,Serbia,2004,True,False
+Curacao,Dominican Republic,2004,False,True
+Dominican Republic,Curacao,2004,True,False
+North Macedonia,Croatia,2004,False,True
+Croatia,North Macedonia,2004,True,False
+Northern Ireland,Serbia,2004,True,False
+Serbia,Northern Ireland,2004,False,True
+Saint Vincent and the Grenadines,Martinique,2004,True,False
+Martinique,Saint Vincent and the Grenadines,2004,False,True
+Qatar,Kyrgyzstan,2004,True,False
+Kyrgyzstan,Qatar,2004,False,True
+South Africa,Cape Verde,2004,True,False
+Cape Verde,South Africa,2004,False,True
+Bahrain,Kyrgyzstan,2004,True,False
+Kyrgyzstan,Bahrain,2004,False,True
+Estonia,North Macedonia,2004,True,False
+North Macedonia,Estonia,2004,False,True
+Curacao,Honduras,2004,False,True
+Honduras,Curacao,2004,True,False
+Cape Verde,Senegal,2004,False,True
+Senegal,Cape Verde,2004,True,False
+Cape Verde,Uganda,2004,False,True
+Uganda,Cape Verde,2004,True,False
+Honduras,Curacao,2004,True,False
+Curacao,Honduras,2004,False,True
+Cape Verde,DR Congo,2004,False,True
+DR Congo,Cape Verde,2004,True,False
+Serbia,Slovakia,2004,False,True
+Slovakia,Serbia,2004,True,False
+Japan,Serbia,2004,True,False
+Serbia,Japan,2004,False,True
+Slovenia,Serbia,2004,True,False
+Serbia,Slovenia,2004,False,True
+North Macedonia,Armenia,2004,False,True
+Armenia,North Macedonia,2004,True,False
+Romania,North Macedonia,2004,True,False
+North Macedonia,Romania,2004,False,True
+San Marino,Serbia,2004,True,False
+Serbia,San Marino,2004,False,True
+Ghana,Cape Verde,2004,True,False
+Cape Verde,Ghana,2004,False,True
+Kyrgyzstan,Bahrain,2004,False,True
+Bahrain,Kyrgyzstan,2004,True,False
+Bosnia and Herzegovina,Serbia,2004,True,False
+Serbia,Bosnia and Herzegovina,2004,False,True
+Cape Verde,Burkina Faso,2004,False,True
+Burkina Faso,Cape Verde,2004,True,False
+North Macedonia,Netherlands,2004,False,True
+Netherlands,North Macedonia,2004,True,False
+Andorra,North Macedonia,2004,True,False
+North Macedonia,Andorra,2004,False,True
+Serbia,San Marino,2004,False,True
+San Marino,Serbia,2004,True,False
+Tajikistan,Kyrgyzstan,2004,True,False
+Kyrgyzstan,Tajikistan,2004,False,True
+Suriname,French Guiana,2004,True,False
+French Guiana,Suriname,2004,False,True
+Guadeloupe,French Guiana,2004,False,False
+French Guiana,Guadeloupe,2004,False,False
+Kuwait,Kyrgyzstan,2004,True,False
+Kyrgyzstan,Kuwait,2004,False,True
+Martinique,Dominica,2004,False,True
+Dominica,Martinique,2004,True,False
+Guadeloupe,Dominica,2004,False,True
+Dominica,Guadeloupe,2004,True,False
+Martinique,French Guiana,2004,False,False
+French Guiana,Martinique,2004,False,False
+Dominica,French Guiana,2004,True,False
+French Guiana,Dominica,2004,False,True
+Martinique,Guadeloupe,2004,False,False
+Guadeloupe,Martinique,2004,False,False
+Belgium,Serbia,2004,True,False
+Serbia,Belgium,2004,False,True
+North Macedonia,Czech Republic,2004,False,True
+Czech Republic,North Macedonia,2004,True,False
+Syria,Kyrgyzstan,2004,True,False
+Kyrgyzstan,Syria,2004,False,True
+Rwanda,Zanzibar,2004,True,False
+Zanzibar,Rwanda,2004,False,True
+Cuba,Martinique,2004,True,False
+Martinique,Cuba,2004,False,True
+Zanzibar,Tanzania,2004,False,True
+Tanzania,Zanzibar,2004,True,False
+Burundi,Zanzibar,2004,True,False
+Zanzibar,Burundi,2004,False,True
+Ethiopia,Zanzibar,2004,True,False
+Zanzibar,Ethiopia,2004,False,True
+Martinique,Cuba,2004,False,True
+Cuba,Martinique,2004,True,False
+Jamaica,French Guiana,2005,True,False
+French Guiana,Jamaica,2005,False,True
+French Guiana,Jamaica,2005,False,True
+Jamaica,French Guiana,2005,True,False
+North Macedonia,Andorra,2005,False,True
+Andorra,North Macedonia,2005,True,False
+Burkina Faso,Cape Verde,2005,True,False
+Cape Verde,Burkina Faso,2005,False,True
+North Macedonia,Romania,2005,False,True
+Romania,North Macedonia,2005,True,False
+Armenia,North Macedonia,2005,True,False
+North Macedonia,Armenia,2005,False,True
+Cape Verde,South Africa,2005,False,True
+South Africa,Cape Verde,2005,True,False
+Czech Republic,North Macedonia,2005,True,False
+North Macedonia,Czech Republic,2005,False,True
+Uganda,Cape Verde,2005,True,False
+Cape Verde,Uganda,2005,False,True
+Angola,Cape Verde,2005,True,False
+Cape Verde,Angola,2005,False,True
+North Macedonia,Finland,2005,False,True
+Finland,North Macedonia,2005,True,False
+DR Congo,Cape Verde,2005,True,False
+Cape Verde,DR Congo,2005,False,True
+Finland,North Macedonia,2005,True,False
+North Macedonia,Finland,2005,False,True
+Cape Verde,Ghana,2005,False,True
+Ghana,Cape Verde,2005,True,False
+Netherlands,North Macedonia,2005,True,False
+North Macedonia,Netherlands,2005,False,True
+Puerto Rico,Guadeloupe,2005,True,False
+Guadeloupe,Puerto Rico,2005,False,True
+Zanzibar,Tanzania,2005,False,True
+Tanzania,Zanzibar,2005,True,False
+Tanzania,Zanzibar,2005,True,False
+Zanzibar,Tanzania,2005,False,True
+Liechtenstein,North Macedonia,2005,True,False
+North Macedonia,Liechtenstein,2005,False,True
+Rwanda,Zanzibar,2005,True,False
+Zanzibar,Rwanda,2005,False,True
+Burundi,Zanzibar,2005,True,False
+Zanzibar,Burundi,2005,False,True
+Tanzania,Zanzibar,2005,True,False
+Zanzibar,Tanzania,2005,False,True
+Zanzibar,Ethiopia,2005,False,True
+Ethiopia,Zanzibar,2005,True,False
+Zanzibar,Uganda,2005,False,True
+Uganda,Zanzibar,2005,True,False
+North Macedonia,Bulgaria,2006,False,True
+Bulgaria,North Macedonia,2006,True,False
+Tanzania,Zanzibar,2006,True,False
+Zanzibar,Tanzania,2006,False,True
+Kyrgyzstan,Pakistan,2006,False,True
+Pakistan,Kyrgyzstan,2006,True,False
+Tajikistan,Kyrgyzstan,2006,True,False
+Kyrgyzstan,Tajikistan,2006,False,True
+Macau,Kyrgyzstan,2006,True,False
+Kyrgyzstan,Macau,2006,False,True
+Palestine,Kyrgyzstan,2006,True,False
+Kyrgyzstan,Palestine,2006,False,True
+Tajikistan,Kyrgyzstan,2006,True,False
+Kyrgyzstan,Tajikistan,2006,False,True
+Guadeloupe,Saint Lucia,2006,False,True
+Saint Lucia,Guadeloupe,2006,True,False
+Portugal,Cape Verde,2006,True,False
+Cape Verde,Portugal,2006,False,True
+North Macedonia,Ecuador,2006,False,True
+Ecuador,North Macedonia,2006,True,False
+Turkey,North Macedonia,2006,True,False
+North Macedonia,Turkey,2006,False,True
+Kazakhstan,Kyrgyzstan,2006,True,False
+Kyrgyzstan,Kazakhstan,2006,False,True
+Estonia,North Macedonia,2006,True,False
+North Macedonia,Estonia,2006,False,True
+Tanzania,Zanzibar,2006,True,False
+Zanzibar,Tanzania,2006,False,True
+Gambia,Cape Verde,2006,True,False
+Cape Verde,Gambia,2006,False,True
+Curacao,Grenada,2006,False,True
+Grenada,Curacao,2006,True,False
+North Macedonia,England,2006,False,True
+England,North Macedonia,2006,True,False
+Curacao,Guyana,2006,False,True
+Guyana,Curacao,2006,True,False
+Curacao,Suriname,2006,False,True
+Suriname,Curacao,2006,True,False
+Dominica,Martinique,2006,True,False
+Martinique,Dominica,2006,False,True
+Guadeloupe,Dominica,2006,False,True
+Dominica,Guadeloupe,2006,True,False
+Guadeloupe,Martinique,2006,False,False
+Martinique,Guadeloupe,2006,False,False
+Cape Verde,Guinea,2006,False,True
+Guinea,Cape Verde,2006,True,False
+England,North Macedonia,2006,True,False
+North Macedonia,England,2006,False,True
+Andorra,North Macedonia,2006,True,False
+North Macedonia,Andorra,2006,False,True
+Saint Vincent and the Grenadines,Martinique,2006,True,False
+Martinique,Saint Vincent and the Grenadines,2006,False,True
+Martinique,Suriname,2006,False,True
+Suriname,Martinique,2006,True,False
+Martinique,Haiti,2006,False,True
+Haiti,Martinique,2006,True,False
+Martinique,Cuba,2006,False,True
+Cuba,Martinique,2006,True,False
+North Macedonia,Russia,2006,False,True
+Russia,North Macedonia,2006,True,False
+Kyrgyzstan,Zanzibar,2006,False,False
+Zanzibar,Kyrgyzstan,2006,False,False
+Dominican Republic,Guadeloupe,2006,True,False
+Guadeloupe,Dominican Republic,2006,False,True
+Kyrgyzstan,Zanzibar,2006,False,False
+Zanzibar,Kyrgyzstan,2006,False,False
+Guyana,Guadeloupe,2006,True,False
+Guadeloupe,Guyana,2006,False,True
+Antigua and Barbuda,Guadeloupe,2006,True,False
+Guadeloupe,Antigua and Barbuda,2006,False,True
+Zanzibar,Burundi,2006,False,True
+Burundi,Zanzibar,2006,True,False
+Zambia,Zanzibar,2006,True,False
+Zanzibar,Zambia,2006,False,True
+Martinique,Saint Vincent and the Grenadines,2006,False,True
+Saint Vincent and the Grenadines,Martinique,2006,True,False
+Martinique,Saint Vincent and the Grenadines,2006,False,True
+Saint Vincent and the Grenadines,Martinique,2006,True,False
+Martinique,Guadeloupe,2007,False,False
+Guadeloupe,Martinique,2007,False,False
+Haiti,Martinique,2007,True,False
+Martinique,Haiti,2007,False,True
+Cuba,Guadeloupe,2007,True,False
+Guadeloupe,Cuba,2007,False,True
+Trinidad and Tobago,Martinique,2007,True,False
+Martinique,Trinidad and Tobago,2007,False,True
+Guadeloupe,Guyana,2007,False,True
+Guyana,Guadeloupe,2007,True,False
+Barbados,Martinique,2007,True,False
+Martinique,Barbados,2007,False,True
+Saint Vincent and the Grenadines,Guadeloupe,2007,True,False
+Guadeloupe,Saint Vincent and the Grenadines,2007,False,True
+Guadeloupe,Haiti,2007,False,True
+Haiti,Guadeloupe,2007,True,False
+Cuba,Guadeloupe,2007,True,False
+Guadeloupe,Cuba,2007,False,True
+Albania,North Macedonia,2007,True,False
+North Macedonia,Albania,2007,False,True
+Kazakhstan,Kyrgyzstan,2007,True,False
+Kyrgyzstan,Kazakhstan,2007,False,True
+Kyrgyzstan,Uzbekistan,2007,False,True
+Uzbekistan,Kyrgyzstan,2007,True,False
+Azerbaijan,Kyrgyzstan,2007,True,False
+Kyrgyzstan,Azerbaijan,2007,False,True
+Algeria,Cape Verde,2007,True,False
+Cape Verde,Algeria,2007,False,True
+Croatia,North Macedonia,2007,True,False
+North Macedonia,Croatia,2007,False,True
+Guadeloupe,Trinidad and Tobago,2007,False,True
+Trinidad and Tobago,Guadeloupe,2007,True,False
+Guadeloupe,Dominica,2007,False,True
+Dominica,Guadeloupe,2007,True,False
+Guadeloupe,Dominica,2007,False,True
+Dominica,Guadeloupe,2007,True,False
+Cape Verde,Algeria,2007,False,True
+Algeria,Cape Verde,2007,True,False
+North Macedonia,Israel,2007,False,True
+Israel,North Macedonia,2007,True,False
+Guadeloupe,Haiti,2007,False,True
+Haiti,Guadeloupe,2007,True,False
+Canada,Guadeloupe,2007,True,False
+Guadeloupe,Canada,2007,False,True
+Costa Rica,Guadeloupe,2007,True,False
+Guadeloupe,Costa Rica,2007,False,True
+Cape Verde,Gambia,2007,False,True
+Gambia,Cape Verde,2007,True,False
+Guam,Taiwan,2007,False,True
+Taiwan,Guam,2007,True,False
+Honduras,Guadeloupe,2007,True,False
+Guadeloupe,Honduras,2007,False,True
+Hong Kong,Guam,2007,True,False
+Guam,Hong Kong,2007,False,True
+Mexico,Guadeloupe,2007,True,False
+Guadeloupe,Mexico,2007,False,True
+Gibraltar,Bermuda,2007,False,True
+Bermuda,Gibraltar,2007,True,False
+Kyrgyzstan,Cambodia,2007,False,True
+Cambodia,Kyrgyzstan,2007,True,False
+Syria,Kyrgyzstan,2007,True,False
+Kyrgyzstan,Syria,2007,False,True
+North Macedonia,Nigeria,2007,False,True
+Nigeria,North Macedonia,2007,True,False
+Bangladesh,Kyrgyzstan,2007,True,False
+Kyrgyzstan,Bangladesh,2007,False,True
+India,Kyrgyzstan,2007,True,False
+Kyrgyzstan,India,2007,False,True
+Russia,North Macedonia,2007,True,False
+North Macedonia,Russia,2007,False,True
+Guinea,Cape Verde,2007,True,False
+Cape Verde,Guinea,2007,False,True
+North Macedonia,Estonia,2007,False,True
+Estonia,North Macedonia,2007,True,False
+North Macedonia,Andorra,2007,False,True
+Andorra,North Macedonia,2007,True,False
+Kyrgyzstan,Jordan,2007,False,True
+Jordan,Kyrgyzstan,2007,True,False
+Jordan,Kyrgyzstan,2007,True,False
+Kyrgyzstan,Jordan,2007,False,True
+French Guiana,Guadeloupe,2007,False,False
+Guadeloupe,French Guiana,2007,False,False
+North Macedonia,Croatia,2007,False,True
+Croatia,North Macedonia,2007,True,False
+Israel,North Macedonia,2007,True,False
+North Macedonia,Israel,2007,False,True
+Cape Verde,Gambia,2007,False,True
+Gambia,Cape Verde,2007,True,False
+Guinea-Bissau,Cape Verde,2007,True,False
+Cape Verde,Guinea-Bissau,2007,False,True
+Sudan,Zanzibar,2007,True,False
+Zanzibar,Sudan,2007,False,True
+Zanzibar,Ethiopia,2007,False,True
+Ethiopia,Zanzibar,2007,True,False
+Zanzibar,Rwanda,2007,False,True
+Rwanda,Zanzibar,2007,True,False
+Dominica,Guadeloupe,2008,True,False
+Guadeloupe,Dominica,2008,False,True
+Martinique,Canada,2008,False,True
+Canada,Martinique,2008,True,False
+North Macedonia,Serbia,2008,False,True
+Serbia,North Macedonia,2008,True,False
+Nicaragua,Curacao,2008,True,False
+Curacao,Nicaragua,2008,False,True
+Trinidad and Tobago,Guadeloupe,2008,True,False
+Guadeloupe,Trinidad and Tobago,2008,False,True
+Eswatini,Botswana,2008,False,True
+Botswana,Eswatini,2008,True,False
+Eswatini,Lesotho,2008,False,True
+Lesotho,Eswatini,2008,True,False
+Bosnia and Herzegovina,North Macedonia,2008,True,False
+North Macedonia,Bosnia and Herzegovina,2008,False,True
+Curacao,Nicaragua,2008,False,True
+Nicaragua,Curacao,2008,True,False
+Sri Lanka,Guam,2008,True,False
+Guam,Sri Lanka,2008,False,True
+Taiwan,Guam,2008,True,False
+Guam,Taiwan,2008,False,True
+Pakistan,Guam,2008,True,False
+Guam,Pakistan,2008,False,True
+Oman,Kyrgyzstan,2008,True,False
+Kyrgyzstan,Oman,2008,False,True
+Kyrgyzstan,Afghanistan,2008,False,True
+Afghanistan,Kyrgyzstan,2008,True,False
+Kyrgyzstan,Bangladesh,2008,False,True
+Bangladesh,Kyrgyzstan,2008,True,False
+Curacao,Suriname,2008,False,True
+Suriname,Curacao,2008,True,False
+Eswatini,Lesotho,2008,False,True
+Lesotho,Eswatini,2008,True,False
+Burkina Faso,Cape Verde,2008,True,False
+Cape Verde,Burkina Faso,2008,False,True
+North Macedonia,Poland,2008,False,True
+Poland,North Macedonia,2008,True,False
+Luxembourg,Cape Verde,2008,True,False
+Cape Verde,Luxembourg,2008,False,True
+Cameroon,Cape Verde,2008,True,False
+Cape Verde,Cameroon,2008,False,True
+Cape Verde,Tanzania,2008,False,True
+Tanzania,Cape Verde,2008,True,False
+Eswatini,Togo,2008,False,True
+Togo,Eswatini,2008,True,False
+Curacao,Venezuela,2008,False,True
+Venezuela,Curacao,2008,True,False
+Haiti,Curacao,2008,True,False
+Curacao,Haiti,2008,False,True
+Mauritius,Cape Verde,2008,True,False
+Cape Verde,Mauritius,2008,False,True
+Eswatini,Zambia,2008,False,True
+Zambia,Eswatini,2008,True,False
+Zambia,Eswatini,2008,True,False
+Eswatini,Zambia,2008,False,True
+Cape Verde,Mauritius,2008,False,True
+Mauritius,Cape Verde,2008,True,False
+Curacao,Haiti,2008,False,True
+Haiti,Curacao,2008,True,False
+Trinidad and Tobago,Curacao,2008,True,False
+Curacao,Trinidad and Tobago,2008,False,True
+Madagascar,Eswatini,2008,True,False
+Eswatini,Madagascar,2008,False,True
+Mauritius,Eswatini,2008,True,False
+Eswatini,Mauritius,2008,False,True
+Seychelles,Eswatini,2008,True,False
+Eswatini,Seychelles,2008,False,True
+Curacao,Aruba,2008,False,True
+Aruba,Curacao,2008,True,False
+Curacao,Grenada,2008,False,True
+Grenada,Curacao,2008,True,False
+Luxembourg,North Macedonia,2008,True,False
+North Macedonia,Luxembourg,2008,False,True
+Mozambique,Eswatini,2008,True,False
+Eswatini,Mozambique,2008,False,True
+Suriname,French Guiana,2008,True,False
+French Guiana,Suriname,2008,False,True
+Cape Verde,Cameroon,2008,False,True
+Cameroon,Cape Verde,2008,True,False
+North Macedonia,Scotland,2008,False,True
+Scotland,North Macedonia,2008,True,False
+Martinique,French Guiana,2008,False,False
+French Guiana,Martinique,2008,False,False
+North Macedonia,Netherlands,2008,False,True
+Netherlands,North Macedonia,2008,True,False
+Guadeloupe,Martinique,2008,False,False
+Martinique,Guadeloupe,2008,False,False
+New Caledonia,Guadeloupe,2008,True,False
+Guadeloupe,New Caledonia,2008,False,True
+Tahiti,Martinique,2008,True,False
+Martinique,Tahiti,2008,False,True
+New Caledonia,Martinique,2008,True,False
+Martinique,New Caledonia,2008,False,True
+Tahiti,Guadeloupe,2008,True,False
+Guadeloupe,Tahiti,2008,False,True
+Guadeloupe,French Guiana,2008,False,False
+French Guiana,Guadeloupe,2008,False,False
+Guadeloupe,Cayman Islands,2008,False,True
+Cayman Islands,Guadeloupe,2008,True,False
+Martinique,Grenada,2008,False,True
+Grenada,Martinique,2008,True,False
+Tanzania,Cape Verde,2008,True,False
+Cape Verde,Tanzania,2008,False,True
+Togo,Eswatini,2008,True,False
+Eswatini,Togo,2008,False,True
+Cayman Islands,Martinique,2008,True,False
+Martinique,Cayman Islands,2008,False,True
+Guadeloupe,Grenada,2008,False,True
+Grenada,Guadeloupe,2008,True,False
+Guadeloupe,Martinique,2008,False,False
+Martinique,Guadeloupe,2008,False,False
+Iceland,North Macedonia,2008,True,False
+North Macedonia,Iceland,2008,False,True
+Cuba,Curacao,2008,True,False
+Curacao,Cuba,2008,False,True
+Suriname,Curacao,2008,True,False
+Curacao,Suriname,2008,False,True
+Curacao,Barbados,2008,False,True
+Barbados,Curacao,2008,True,False
+Montenegro,North Macedonia,2008,True,False
+North Macedonia,Montenegro,2008,False,True
+Guadeloupe,Cuba,2008,False,True
+Cuba,Guadeloupe,2008,True,False
+Haiti,Guadeloupe,2008,True,False
+Guadeloupe,Haiti,2008,False,True
+Antigua and Barbuda,Guadeloupe,2008,True,False
+Guadeloupe,Antigua and Barbuda,2008,False,True
+Jamaica,Guadeloupe,2008,True,False
+Guadeloupe,Jamaica,2008,False,True
+Cuba,Guadeloupe,2008,True,False
+Guadeloupe,Cuba,2008,False,True
+Zanzibar,Somalia,2009,False,True
+Somalia,Zanzibar,2009,True,False
+Uganda,Zanzibar,2009,True,False
+Zanzibar,Uganda,2009,False,True
+Tanzania,Zanzibar,2009,True,False
+Zanzibar,Tanzania,2009,False,True
+Zanzibar,Rwanda,2009,False,True
+Rwanda,Zanzibar,2009,True,False
+North Macedonia,Moldova,2009,False,True
+Moldova,North Macedonia,2009,True,False
+San Marino,Northern Ireland,2009,False,True
+Northern Ireland,San Marino,2009,True,False
+Angola,Cape Verde,2009,True,False
+Cape Verde,Angola,2009,False,True
+Cape Verde,Equatorial Guinea,2009,False,True
+Equatorial Guinea,Cape Verde,2009,True,False
+Nepal,Kyrgyzstan,2009,True,False
+Kyrgyzstan,Nepal,2009,False,True
+Kyrgyzstan,Palestine,2009,False,True
+Palestine,Kyrgyzstan,2009,True,False
+Netherlands,North Macedonia,2009,True,False
+North Macedonia,Netherlands,2009,False,True
+Poland,San Marino,2009,True,False
+San Marino,Poland,2009,False,True
+French Guiana,Suriname,2009,False,True
+Suriname,French Guiana,2009,True,False
+Antigua and Barbuda,French Guiana,2009,True,False
+French Guiana,Antigua and Barbuda,2009,False,True
+North Macedonia,Norway,2009,False,True
+Norway,North Macedonia,2009,True,False
+Slovakia,San Marino,2009,True,False
+San Marino,Slovakia,2009,False,True
+Guyana,French Guiana,2009,True,False
+French Guiana,Guyana,2009,False,True
+North Macedonia,Iceland,2009,False,True
+Iceland,North Macedonia,2009,True,False
+Eswatini,Lesotho,2009,False,True
+Lesotho,Eswatini,2009,True,False
+Eswatini,Lesotho,2009,False,True
+Lesotho,Eswatini,2009,True,False
+Haiti,Martinique,2009,True,False
+Martinique,Haiti,2009,False,True
+Panama,Guadeloupe,2009,True,False
+Guadeloupe,Panama,2009,False,True
+Malawi,Eswatini,2009,True,False
+Eswatini,Malawi,2009,False,True
+Guadeloupe,Nicaragua,2009,False,True
+Nicaragua,Guadeloupe,2009,True,False
+Mexico,Guadeloupe,2009,True,False
+Guadeloupe,Mexico,2009,False,True
+Guadeloupe,Costa Rica,2009,False,True
+Costa Rica,Guadeloupe,2009,True,False
+China PR,Kyrgyzstan,2009,True,False
+Kyrgyzstan,China PR,2009,False,True
+North Macedonia,Spain,2009,False,True
+Spain,North Macedonia,2009,True,False
+Mozambique,Eswatini,2009,True,False
+Eswatini,Mozambique,2009,False,True
+Slovenia,San Marino,2009,True,False
+San Marino,Slovenia,2009,False,True
+Syria,Kyrgyzstan,2009,True,False
+Kyrgyzstan,Syria,2009,False,True
+India,Kyrgyzstan,2009,True,False
+Kyrgyzstan,India,2009,False,True
+Kyrgyzstan,Lebanon,2009,False,True
+Lebanon,Kyrgyzstan,2009,True,False
+Sri Lanka,Kyrgyzstan,2009,True,False
+Kyrgyzstan,Sri Lanka,2009,False,True
+Malta,Cape Verde,2009,True,False
+Cape Verde,Malta,2009,False,True
+Namibia,Eswatini,2009,True,False
+Eswatini,Namibia,2009,False,True
+Scotland,North Macedonia,2009,True,False
+North Macedonia,Scotland,2009,False,True
+Angola,Cape Verde,2009,True,False
+Cape Verde,Angola,2009,False,True
+Czech Republic,San Marino,2009,True,False
+San Marino,Czech Republic,2009,False,True
+Norway,North Macedonia,2009,True,False
+North Macedonia,Norway,2009,False,True
+North Macedonia,Qatar,2009,False,True
+Qatar,North Macedonia,2009,True,False
+San Marino,Slovenia,2009,False,True
+Slovenia,San Marino,2009,True,False
+Eswatini,Seychelles,2009,False,True
+Seychelles,Eswatini,2009,True,False
+Botswana,Eswatini,2009,True,False
+Eswatini,Botswana,2009,False,True
+Curacao,French Guiana,2009,False,False
+French Guiana,Curacao,2009,False,False
+Guyana,Curacao,2009,True,False
+Curacao,Guyana,2009,False,True
+Suriname,French Guiana,2009,True,False
+French Guiana,Suriname,2009,False,True
+French Guiana,Guyana,2009,False,True
+Guyana,French Guiana,2009,True,False
+Suriname,Curacao,2009,True,False
+Curacao,Suriname,2009,False,True
+North Macedonia,Canada,2009,False,True
+Canada,North Macedonia,2009,True,False
+Iran,North Macedonia,2009,True,False
+North Macedonia,Iran,2009,False,True
+Burundi,Zanzibar,2009,True,False
+Zanzibar,Burundi,2009,False,True
+Zanzibar,Tanzania,2009,False,True
+Tanzania,Zanzibar,2009,True,False
+Uganda,Zanzibar,2009,True,False
+Zanzibar,Uganda,2009,False,True
+Zambia,Zanzibar,2009,True,False
+Zanzibar,Zambia,2009,False,True
+Zanzibar,Uganda,2009,False,True
+Uganda,Zanzibar,2009,True,False
+Zanzibar,Tanzania,2009,False,True
+Tanzania,Zanzibar,2009,True,False
+Kyrgyzstan,North Korea,2010,False,True
+North Korea,Kyrgyzstan,2010,True,False
+Turkmenistan,Kyrgyzstan,2010,True,False
+Kyrgyzstan,Turkmenistan,2010,False,True
+Guadeloupe,Saint Kitts and Nevis,2010,False,True
+Saint Kitts and Nevis,Guadeloupe,2010,True,False
+Martinique,Haiti,2010,False,True
+Haiti,Martinique,2010,True,False
+Saint Kitts and Nevis,Guadeloupe,2010,True,False
+Guadeloupe,Saint Kitts and Nevis,2010,False,True
+Portugal,Cape Verde,2010,True,False
+Cape Verde,Portugal,2010,False,True
+Grenada,Martinique,2010,True,False
+Martinique,Grenada,2010,False,True
+Senegal,Cape Verde,2010,True,False
+Cape Verde,Senegal,2010,False,True
+Saint Lucia,Martinique,2010,True,False
+Martinique,Saint Lucia,2010,False,True
+Saint Lucia,Martinique,2010,True,False
+Martinique,Saint Lucia,2010,False,True
+San Marino,Netherlands,2010,False,True
+Netherlands,San Marino,2010,True,False
+Cape Verde,Mali,2010,False,True
+Mali,Cape Verde,2010,True,False
+Sweden,San Marino,2010,True,False
+San Marino,Sweden,2010,False,True
+French Guiana,Suriname,2010,False,True
+Suriname,French Guiana,2010,True,False
+Guadeloupe,New Caledonia,2010,False,True
+New Caledonia,Guadeloupe,2010,True,False
+Martinique,Tahiti,2010,False,True
+Tahiti,Martinique,2010,True,False
+Guadeloupe,Tahiti,2010,False,True
+Tahiti,Guadeloupe,2010,True,False
+New Caledonia,Martinique,2010,True,False
+Martinique,New Caledonia,2010,False,True
+Guadeloupe,Martinique,2010,False,False
+Martinique,Guadeloupe,2010,False,False
+Hungary,San Marino,2010,True,False
+San Marino,Hungary,2010,False,True
+Zimbabwe,Cape Verde,2010,True,False
+Cape Verde,Zimbabwe,2010,False,True
+San Marino,Moldova,2010,False,True
+Moldova,San Marino,2010,True,False
+Suriname,Curacao,2010,True,False
+Curacao,Suriname,2010,False,True
+Curacao,Guyana,2010,False,True
+Guyana,Curacao,2010,True,False
+Saint Lucia,Curacao,2010,True,False
+Curacao,Saint Lucia,2010,False,True
+Saint Kitts and Nevis,Guadeloupe,2010,True,False
+Guadeloupe,Saint Kitts and Nevis,2010,False,True
+Guadeloupe,Puerto Rico,2010,False,True
+Puerto Rico,Guadeloupe,2010,True,False
+Grenada,Guadeloupe,2010,True,False
+Guadeloupe,Grenada,2010,False,True
+Curacao,Aruba,2010,False,True
+Aruba,Curacao,2010,True,False
+Curacao,Suriname,2010,False,True
+Suriname,Curacao,2010,True,False
+Cape Verde,Guinea-Bissau,2010,False,True
+Guinea-Bissau,Cape Verde,2010,True,False
+Finland,San Marino,2010,True,False
+San Marino,Finland,2010,False,True
+Martinique,Grenada,2010,False,True
+Grenada,Martinique,2010,True,False
+Guyana,Guadeloupe,2010,True,False
+Guadeloupe,Guyana,2010,False,True
+Martinique,Cuba,2010,False,True
+Cuba,Martinique,2010,True,False
+Zanzibar,Sudan,2010,False,True
+Sudan,Zanzibar,2010,True,False
+Guadeloupe,Jamaica,2010,False,True
+Jamaica,Guadeloupe,2010,True,False
+Martinique,Trinidad and Tobago,2010,False,True
+Trinidad and Tobago,Martinique,2010,True,False
+Guadeloupe,Antigua and Barbuda,2010,False,True
+Antigua and Barbuda,Guadeloupe,2010,True,False
+Cuba,Guadeloupe,2010,True,False
+Guadeloupe,Cuba,2010,False,True
+Rwanda,Zanzibar,2010,True,False
+Zanzibar,Rwanda,2010,False,True
+Guadeloupe,Jamaica,2010,False,True
+Jamaica,Guadeloupe,2010,True,False
+Uganda,Zanzibar,2010,True,False
+Zanzibar,Uganda,2010,False,True
+Cape Verde,Burkina Faso,2011,False,True
+Burkina Faso,Cape Verde,2011,True,False
+North Macedonia,Cameroon,2011,False,True
+Cameroon,North Macedonia,2011,True,False
+San Marino,Liechtenstein,2011,False,True
+Liechtenstein,San Marino,2011,True,False
+Eswatini,Zambia,2011,False,True
+Zambia,Eswatini,2011,True,False
+Gibraltar,Faroe Islands,2011,False,True
+Faroe Islands,Gibraltar,2011,True,False
+Tajikistan,Kyrgyzstan,2011,True,False
+Kyrgyzstan,Tajikistan,2011,False,True
+Maldives,Kyrgyzstan,2011,True,False
+Kyrgyzstan,Maldives,2011,False,True
+Cambodia,Kyrgyzstan,2011,True,False
+Kyrgyzstan,Cambodia,2011,False,True
+Republic of Ireland,North Macedonia,2011,True,False
+North Macedonia,Republic of Ireland,2011,False,True
+Sudan,Eswatini,2011,True,False
+Eswatini,Sudan,2011,False,True
+Eswatini,Botswana,2011,False,True
+Botswana,Eswatini,2011,True,False
+Eswatini,Malawi,2011,False,True
+Malawi,Eswatini,2011,True,False
+San Marino,Finland,2011,False,True
+Finland,San Marino,2011,True,False
+North Macedonia,Republic of Ireland,2011,False,True
+Republic of Ireland,North Macedonia,2011,True,False
+Liberia,Cape Verde,2011,True,False
+Cape Verde,Liberia,2011,False,True
+Eswatini,Sudan,2011,False,True
+Sudan,Eswatini,2011,True,False
+Panama,Guadeloupe,2011,True,False
+Guadeloupe,Panama,2011,False,True
+San Marino,Hungary,2011,False,True
+Hungary,San Marino,2011,True,False
+Canada,Guadeloupe,2011,True,False
+Guadeloupe,Canada,2011,False,True
+United States,Guadeloupe,2011,True,False
+Guadeloupe,United States,2011,False,True
+Uzbekistan,Kyrgyzstan,2011,True,False
+Kyrgyzstan,Uzbekistan,2011,False,True
+Kyrgyzstan,Uzbekistan,2011,False,True
+Uzbekistan,Kyrgyzstan,2011,True,False
+Eswatini,Botswana,2011,False,True
+Botswana,Eswatini,2011,True,False
+Azerbaijan,North Macedonia,2011,True,False
+North Macedonia,Azerbaijan,2011,False,True
+San Marino,Romania,2011,False,True
+Romania,San Marino,2011,True,False
+Lesotho,Eswatini,2011,True,False
+Eswatini,Lesotho,2011,False,True
+Lesotho,Eswatini,2011,True,False
+Eswatini,Lesotho,2011,False,True
+Ghana,Eswatini,2011,True,False
+Eswatini,Ghana,2011,False,True
+Netherlands,San Marino,2011,True,False
+San Marino,Netherlands,2011,False,True
+Russia,North Macedonia,2011,True,False
+North Macedonia,Russia,2011,False,True
+North Macedonia,Andorra,2011,False,True
+Andorra,North Macedonia,2011,True,False
+San Marino,Sweden,2011,False,True
+Sweden,San Marino,2011,True,False
+Antigua and Barbuda,Martinique,2011,True,False
+Martinique,Antigua and Barbuda,2011,False,True
+Antigua and Barbuda,Martinique,2011,True,False
+Martinique,Antigua and Barbuda,2011,False,True
+Armenia,North Macedonia,2011,True,False
+North Macedonia,Armenia,2011,False,True
+Cape Verde,Zimbabwe,2011,False,True
+Zimbabwe,Cape Verde,2011,True,False
+Eswatini,Congo,2011,False,True
+Congo,Eswatini,2011,True,False
+North Macedonia,Slovakia,2011,False,True
+Slovakia,North Macedonia,2011,True,False
+Moldova,San Marino,2011,True,False
+San Marino,Moldova,2011,False,True
+Antigua and Barbuda,Guadeloupe,2011,True,False
+Guadeloupe,Antigua and Barbuda,2011,False,True
+Eswatini,DR Congo,2011,False,True
+DR Congo,Eswatini,2011,True,False
+DR Congo,Eswatini,2011,True,False
+Eswatini,DR Congo,2011,False,True
+North Macedonia,Albania,2011,False,True
+Albania,North Macedonia,2011,True,False
+Uganda,Zanzibar,2011,True,False
+Zanzibar,Uganda,2011,False,True
+Zanzibar,Burundi,2011,False,True
+Burundi,Zanzibar,2011,True,False
+Somalia,Zanzibar,2011,True,False
+Zanzibar,Somalia,2011,False,True
+Rwanda,Zanzibar,2011,True,False
+Zanzibar,Rwanda,2011,False,True
+Luxembourg,North Macedonia,2012,True,False
+North Macedonia,Luxembourg,2012,False,True
+Madagascar,Cape Verde,2012,True,False
+Cape Verde,Madagascar,2012,False,True
+Martinique,Guadeloupe,2012,False,False
+Guadeloupe,Martinique,2012,False,False
+French Guiana,Guyana,2012,False,True
+Guyana,French Guiana,2012,True,False
+French Guiana,Guyana,2012,False,True
+Guyana,French Guiana,2012,True,False
+Guadeloupe,Martinique,2012,False,False
+Martinique,Guadeloupe,2012,False,False
+Martinique,Guyana,2012,False,True
+Guyana,Martinique,2012,True,False
+Guadeloupe,Guyana,2012,False,True
+Guyana,Guadeloupe,2012,True,False
+Portugal,North Macedonia,2012,True,False
+North Macedonia,Portugal,2012,False,True
+Angola,North Macedonia,2012,True,False
+North Macedonia,Angola,2012,False,True
+Kazakhstan,Kyrgyzstan,2012,True,False
+Kyrgyzstan,Kazakhstan,2012,False,True
+Sierra Leone,Cape Verde,2012,True,False
+Cape Verde,Sierra Leone,2012,False,True
+Cape Verde,Tunisia,2012,False,True
+Tunisia,Cape Verde,2012,True,False
+French Guiana,Suriname,2012,False,True
+Suriname,French Guiana,2012,True,False
+Cape Verde,Madagascar,2012,False,True
+Madagascar,Cape Verde,2012,True,False
+San Marino,Malta,2012,False,True
+Malta,San Marino,2012,True,False
+North Macedonia,Lithuania,2012,False,True
+Lithuania,North Macedonia,2012,True,False
+Martinique,British Virgin Islands,2012,False,True
+British Virgin Islands,Martinique,2012,True,False
+Croatia,North Macedonia,2012,True,False
+North Macedonia,Croatia,2012,False,True
+Cape Verde,Cameroon,2012,False,True
+Cameroon,Cape Verde,2012,True,False
+Martinique,Suriname,2012,False,True
+Suriname,Martinique,2012,True,False
+San Marino,Montenegro,2012,False,True
+Montenegro,San Marino,2012,True,False
+Scotland,North Macedonia,2012,True,False
+North Macedonia,Scotland,2012,False,True
+French Guiana,Haiti,2012,False,True
+Haiti,French Guiana,2012,True,False
+Martinique,New Caledonia,2012,False,True
+New Caledonia,Martinique,2012,True,False
+Guadeloupe,French Guiana,2012,False,False
+French Guiana,Guadeloupe,2012,False,False
+Martinique,Tahiti,2012,False,True
+Tahiti,Martinique,2012,True,False
+French Guiana,Tahiti,2012,False,True
+Tahiti,French Guiana,2012,True,False
+French Guiana,Trinidad and Tobago,2012,False,True
+Trinidad and Tobago,French Guiana,2012,True,False
+England,San Marino,2012,True,False
+San Marino,England,2012,False,True
+Lesotho,Eswatini,2012,True,False
+Eswatini,Lesotho,2012,False,True
+North Macedonia,Croatia,2012,False,True
+Croatia,North Macedonia,2012,True,False
+Lesotho,Eswatini,2012,True,False
+Eswatini,Lesotho,2012,False,True
+Saint Kitts and Nevis,French Guiana,2012,True,False
+French Guiana,Saint Kitts and Nevis,2012,False,True
+North Macedonia,Serbia,2012,False,True
+Serbia,North Macedonia,2012,True,False
+San Marino,Moldova,2012,False,True
+Moldova,San Marino,2012,True,False
+Guadeloupe,Dominican Republic,2012,False,True
+Dominican Republic,Guadeloupe,2012,True,False
+Martinique,Puerto Rico,2012,False,True
+Puerto Rico,Martinique,2012,True,False
+Dominican Republic,Martinique,2012,True,False
+Martinique,Dominican Republic,2012,False,True
+Guadeloupe,Puerto Rico,2012,False,True
+Puerto Rico,Guadeloupe,2012,True,False
+Guadeloupe,Martinique,2012,False,False
+Martinique,Guadeloupe,2012,False,False
+Eswatini,Lesotho,2012,False,True
+Lesotho,Eswatini,2012,True,False
+Cape Verde,Ghana,2012,False,True
+Ghana,Cape Verde,2012,True,False
+Grenada,French Guiana,2012,True,False
+French Guiana,Grenada,2012,False,True
+North Macedonia,Slovenia,2012,False,True
+Slovenia,North Macedonia,2012,True,False
+Montenegro,San Marino,2012,True,False
+San Marino,Montenegro,2012,False,True
+French Guiana,Haiti,2012,False,True
+Haiti,French Guiana,2012,True,False
+Guyana,French Guiana,2012,True,False
+French Guiana,Guyana,2012,False,True
+Rwanda,Zanzibar,2012,True,False
+Zanzibar,Rwanda,2012,False,True
+Malawi,Zanzibar,2012,True,False
+Zanzibar,Malawi,2012,False,True
+Burundi,Zanzibar,2012,True,False
+Zanzibar,Burundi,2012,False,True
+Zanzibar,Kenya,2012,False,True
+Kenya,Zanzibar,2012,True,False
+Jamaica,French Guiana,2012,True,False
+French Guiana,Jamaica,2012,False,True
+Martinique,Cuba,2012,False,True
+Cuba,Martinique,2012,True,False
+Tanzania,Zanzibar,2012,True,False
+Zanzibar,Tanzania,2012,False,True
+Cuba,French Guiana,2012,True,False
+French Guiana,Cuba,2012,False,True
+Jamaica,Martinique,2012,True,False
+Martinique,Jamaica,2012,False,True
+French Guiana,Martinique,2012,False,False
+Martinique,French Guiana,2012,False,False
+North Macedonia,Poland,2012,False,True
+Poland,North Macedonia,2012,True,False
+Martinique,Trinidad and Tobago,2012,False,True
+Trinidad and Tobago,Martinique,2012,True,False
+Haiti,Martinique,2012,True,False
+Martinique,Haiti,2012,False,True
+Cape Verde,Nigeria,2013,False,True
+Nigeria,Cape Verde,2013,True,False
+Eswatini,Burkina Faso,2013,False,True
+Burkina Faso,Eswatini,2013,True,False
+South Africa,Cape Verde,2013,True,False
+Cape Verde,South Africa,2013,False,True
+Morocco,Cape Verde,2013,True,False
+Cape Verde,Morocco,2013,False,True
+Cape Verde,Angola,2013,False,True
+Angola,Cape Verde,2013,True,False
+Ghana,Cape Verde,2013,True,False
+Cape Verde,Ghana,2013,False,True
+North Macedonia,Denmark,2013,False,True
+Denmark,North Macedonia,2013,True,False
+Kyrgyzstan,Macau,2013,False,True
+Macau,Kyrgyzstan,2013,True,False
+Kyrgyzstan,Pakistan,2013,False,True
+Pakistan,Kyrgyzstan,2013,True,False
+Kyrgyzstan,Tajikistan,2013,False,True
+Tajikistan,Kyrgyzstan,2013,True,False
+Egypt,Eswatini,2013,True,False
+Eswatini,Egypt,2013,False,True
+North Macedonia,Belgium,2013,False,True
+Belgium,North Macedonia,2013,True,False
+San Marino,England,2013,False,True
+England,San Marino,2013,True,False
+Equatorial Guinea,Cape Verde,2013,True,False
+Cape Verde,Equatorial Guinea,2013,False,True
+Belgium,North Macedonia,2013,True,False
+North Macedonia,Belgium,2013,False,True
+Poland,San Marino,2013,True,False
+San Marino,Poland,2013,False,True
+Italy,San Marino,2013,True,False
+San Marino,Italy,2013,False,True
+Sweden,North Macedonia,2013,True,False
+North Macedonia,Sweden,2013,False,True
+Cape Verde,Equatorial Guinea,2013,False,True
+Equatorial Guinea,Cape Verde,2013,True,False
+Estonia,Kyrgyzstan,2013,True,False
+Kyrgyzstan,Estonia,2013,False,True
+Norway,North Macedonia,2013,True,False
+North Macedonia,Norway,2013,False,True
+Moldova,Kyrgyzstan,2013,True,False
+Kyrgyzstan,Moldova,2013,False,True
+Cape Verde,Sierra Leone,2013,False,True
+Sierra Leone,Cape Verde,2013,True,False
+Eswatini,Angola,2013,False,True
+Angola,Eswatini,2013,True,False
+Angola,Eswatini,2013,True,False
+Eswatini,Angola,2013,False,True
+Botswana,Eswatini,2013,True,False
+Eswatini,Botswana,2013,False,True
+Canada,Martinique,2013,True,False
+Martinique,Canada,2013,False,True
+Kenya,Eswatini,2013,True,False
+Eswatini,Kenya,2013,False,True
+Lesotho,Eswatini,2013,True,False
+Eswatini,Lesotho,2013,False,True
+Panama,Martinique,2013,True,False
+Martinique,Panama,2013,False,True
+Martinique,Mexico,2013,False,True
+Mexico,Martinique,2013,True,False
+Gabon,Cape Verde,2013,True,False
+Cape Verde,Gabon,2013,False,True
+North Macedonia,Bulgaria,2013,False,True
+Bulgaria,North Macedonia,2013,True,False
+Belarus,Kyrgyzstan,2013,True,False
+Kyrgyzstan,Belarus,2013,False,True
+North Macedonia,Wales,2013,False,True
+Wales,North Macedonia,2013,True,False
+Ukraine,San Marino,2013,True,False
+San Marino,Ukraine,2013,False,True
+Tunisia,Cape Verde,2013,True,False
+Cape Verde,Tunisia,2013,False,True
+North Macedonia,Scotland,2013,False,True
+Scotland,North Macedonia,2013,True,False
+San Marino,Poland,2013,False,True
+Poland,San Marino,2013,True,False
+Moldova,San Marino,2013,True,False
+San Marino,Moldova,2013,False,True
+Wales,North Macedonia,2013,True,False
+North Macedonia,Wales,2013,False,True
+Kyrgyzstan,Tajikistan,2013,False,True
+Tajikistan,Kyrgyzstan,2013,True,False
+San Marino,Ukraine,2013,False,True
+Ukraine,San Marino,2013,True,False
+Serbia,North Macedonia,2013,True,False
+North Macedonia,Serbia,2013,False,True
+Indonesia,Kyrgyzstan,2013,True,False
+Kyrgyzstan,Indonesia,2013,False,True
+Eswatini,South Africa,2013,False,True
+South Africa,Eswatini,2013,True,False
+Gibraltar,Slovakia,2013,False,True
+Slovakia,Gibraltar,2013,True,False
+Kyrgyzstan,Azerbaijan,2013,False,True
+Azerbaijan,Kyrgyzstan,2013,True,False
+Ethiopia,Zanzibar,2013,True,False
+Zanzibar,Ethiopia,2013,False,True
+Kenya,Zanzibar,2013,True,False
+Zanzibar,Kenya,2013,False,True
+Gibraltar,Faroe Islands,2014,False,True
+Faroe Islands,Gibraltar,2014,True,False
+Gibraltar,Estonia,2014,False,True
+Estonia,Gibraltar,2014,True,False
+Luxembourg,Cape Verde,2014,True,False
+Cape Verde,Luxembourg,2014,False,True
+North Macedonia,Latvia,2014,False,True
+Latvia,North Macedonia,2014,True,False
+Lesotho,Eswatini,2014,True,False
+Eswatini,Lesotho,2014,False,True
+Lesotho,Eswatini,2014,True,False
+Eswatini,Lesotho,2014,False,True
+Saint Lucia,Martinique,2014,True,False
+Martinique,Saint Lucia,2014,False,True
+Afghanistan,Kyrgyzstan,2014,True,False
+Kyrgyzstan,Afghanistan,2014,False,True
+Guadeloupe,French Guiana,2014,False,False
+French Guiana,Guadeloupe,2014,False,False
+Afghanistan,Kyrgyzstan,2014,True,False
+Kyrgyzstan,Afghanistan,2014,False,True
+Kuwait,Kyrgyzstan,2014,True,False
+Kyrgyzstan,Kuwait,2014,False,True
+Palestine,Kyrgyzstan,2014,True,False
+Kyrgyzstan,Palestine,2014,False,True
+French Guiana,Suriname,2014,False,True
+Suriname,French Guiana,2014,True,False
+Maldives,Kyrgyzstan,2014,True,False
+Kyrgyzstan,Maldives,2014,False,True
+Kyrgyzstan,Myanmar,2014,False,True
+Myanmar,Kyrgyzstan,2014,True,False
+Estonia,Gibraltar,2014,True,False
+Gibraltar,Estonia,2014,False,True
+North Macedonia,Cameroon,2014,False,True
+Cameroon,North Macedonia,2014,True,False
+Suriname,French Guiana,2014,True,False
+French Guiana,Suriname,2014,False,True
+French Guiana,British Virgin Islands,2014,False,True
+British Virgin Islands,French Guiana,2014,True,False
+North Macedonia,Qatar,2014,False,True
+Qatar,North Macedonia,2014,True,False
+Sierra Leone,Eswatini,2014,True,False
+Eswatini,Sierra Leone,2014,False,True
+Aruba,French Guiana,2014,True,False
+French Guiana,Aruba,2014,False,True
+Gibraltar,Malta,2014,False,True
+Malta,Gibraltar,2014,True,False
+China PR,North Macedonia,2014,True,False
+North Macedonia,China PR,2014,False,True
+China PR,North Macedonia,2014,True,False
+North Macedonia,China PR,2014,False,True
+French Guiana,Suriname,2014,False,True
+Suriname,French Guiana,2014,True,False
+Saint Lucia,Martinique,2014,True,False
+Martinique,Saint Lucia,2014,False,True
+Saint Lucia,Martinique,2014,True,False
+Martinique,Saint Lucia,2014,False,True
+Grenada,French Guiana,2014,True,False
+French Guiana,Grenada,2014,False,True
+Kazakhstan,Kyrgyzstan,2014,True,False
+Kyrgyzstan,Kazakhstan,2014,False,True
+Puerto Rico,French Guiana,2014,True,False
+French Guiana,Puerto Rico,2014,False,True
+Niger,Cape Verde,2014,True,False
+Cape Verde,Niger,2014,False,True
+French Guiana,Curacao,2014,False,True
+Curacao,French Guiana,2014,True,False
+Gibraltar,Poland,2014,False,True
+Poland,Gibraltar,2014,True,False
+Spain,North Macedonia,2014,True,False
+North Macedonia,Spain,2014,False,True
+Cape Verde,Zambia,2014,False,True
+Zambia,Cape Verde,2014,True,False
+Curacao,Martinique,2014,True,False
+Martinique,Curacao,2014,False,True
+Haiti,French Guiana,2014,True,False
+French Guiana,Haiti,2014,False,True
+North Macedonia,Luxembourg,2014,False,True
+Luxembourg,North Macedonia,2014,True,False
+French Guiana,Saint Kitts and Nevis,2014,False,True
+Saint Kitts and Nevis,French Guiana,2014,True,False
+Republic of Ireland,Gibraltar,2014,True,False
+Gibraltar,Republic of Ireland,2014,False,True
+Mozambique,Cape Verde,2014,True,False
+Cape Verde,Mozambique,2014,False,True
+Barbados,French Guiana,2014,True,False
+French Guiana,Barbados,2014,False,True
+Guadeloupe,Curacao,2014,False,True
+Curacao,Guadeloupe,2014,True,False
+Ukraine,North Macedonia,2014,True,False
+North Macedonia,Ukraine,2014,False,True
+Gibraltar,Georgia,2014,False,True
+Georgia,Gibraltar,2014,True,False
+Cape Verde,Mozambique,2014,False,True
+Mozambique,Cape Verde,2014,True,False
+Eswatini,Zimbabwe,2014,False,True
+Zimbabwe,Eswatini,2014,True,False
+Cuba,French Guiana,2014,True,False
+French Guiana,Cuba,2014,False,True
+Trinidad and Tobago,French Guiana,2014,True,False
+French Guiana,Trinidad and Tobago,2014,False,True
+Germany,Gibraltar,2014,True,False
+Gibraltar,Germany,2014,False,True
+Martinique,Haiti,2014,False,True
+Haiti,Martinique,2014,True,False
+Cape Verde,Niger,2014,False,True
+Niger,Cape Verde,2014,True,False
+French Guiana,Curacao,2014,False,True
+Curacao,French Guiana,2014,True,False
+North Macedonia,Slovakia,2014,False,True
+Slovakia,North Macedonia,2014,True,False
+Antigua and Barbuda,Martinique,2014,True,False
+Martinique,Antigua and Barbuda,2014,False,True
+Eswatini,Tanzania,2014,False,True
+Tanzania,Eswatini,2014,True,False
+Zambia,Cape Verde,2014,True,False
+Cape Verde,Zambia,2014,False,True
+Burkina Faso,Eswatini,2015,True,False
+Eswatini,Burkina Faso,2015,False,True
+Cape Verde,Congo,2015,False,True
+Congo,Cape Verde,2015,True,False
+Tunisia,Cape Verde,2015,True,False
+Cape Verde,Tunisia,2015,False,True
+Cape Verde,DR Congo,2015,False,True
+DR Congo,Cape Verde,2015,True,False
+Cape Verde,Zambia,2015,False,True
+Zambia,Cape Verde,2015,True,False
+French Guiana,Honduras,2015,False,True
+Honduras,French Guiana,2015,True,False
+Eswatini,South Africa,2015,False,True
+South Africa,Eswatini,2015,True,False
+North Macedonia,Belarus,2015,False,True
+Belarus,North Macedonia,2015,True,False
+Honduras,French Guiana,2015,True,False
+French Guiana,Honduras,2015,False,True
+Scotland,Gibraltar,2015,True,False
+Gibraltar,Scotland,2015,False,True
+North Macedonia,Australia,2015,False,True
+Australia,North Macedonia,2015,True,False
+Portugal,Cape Verde,2015,True,False
+Cape Verde,Portugal,2015,False,True
+Tanzania,Eswatini,2015,True,False
+Eswatini,Tanzania,2015,False,True
+Lesotho,Eswatini,2015,True,False
+Eswatini,Lesotho,2015,False,True
+Madagascar,Eswatini,2015,True,False
+Eswatini,Madagascar,2015,False,True
+Croatia,Gibraltar,2015,True,False
+Gibraltar,Croatia,2015,False,True
+Bangladesh,Kyrgyzstan,2015,True,False
+Kyrgyzstan,Bangladesh,2015,False,True
+Guinea,Eswatini,2015,True,False
+Eswatini,Guinea,2015,False,True
+Gibraltar,Germany,2015,False,True
+Germany,Gibraltar,2015,True,False
+Slovakia,North Macedonia,2015,True,False
+North Macedonia,Slovakia,2015,False,True
+Kyrgyzstan,Australia,2015,False,True
+Australia,Kyrgyzstan,2015,True,False
+Eswatini,Angola,2015,False,True
+Angola,Eswatini,2015,True,False
+Angola,Eswatini,2015,True,False
+Eswatini,Angola,2015,False,True
+Jordan,Kyrgyzstan,2015,True,False
+Kyrgyzstan,Jordan,2015,False,True
+Gibraltar,Republic of Ireland,2015,False,True
+Republic of Ireland,Gibraltar,2015,True,False
+Luxembourg,North Macedonia,2015,True,False
+North Macedonia,Luxembourg,2015,False,True
+Libya,Cape Verde,2015,True,False
+Cape Verde,Libya,2015,False,True
+Eswatini,Malawi,2015,False,True
+Malawi,Eswatini,2015,True,False
+Poland,Gibraltar,2015,True,False
+Gibraltar,Poland,2015,False,True
+North Macedonia,Spain,2015,False,True
+Spain,North Macedonia,2015,True,False
+Georgia,Gibraltar,2015,True,False
+Gibraltar,Georgia,2015,False,True
+Kyrgyzstan,Tajikistan,2015,False,True
+Tajikistan,Kyrgyzstan,2015,True,False
+Djibouti,Eswatini,2015,True,False
+Eswatini,Djibouti,2015,False,True
+North Macedonia,Ukraine,2015,False,True
+Ukraine,North Macedonia,2015,True,False
+Gibraltar,Scotland,2015,False,True
+Scotland,Gibraltar,2015,True,False
+Belarus,North Macedonia,2015,True,False
+North Macedonia,Belarus,2015,False,True
+Kyrgyzstan,Bangladesh,2015,False,True
+Bangladesh,Kyrgyzstan,2015,True,False
+Eswatini,Djibouti,2015,False,True
+Djibouti,Eswatini,2015,True,False
+Australia,Kyrgyzstan,2015,True,False
+Kyrgyzstan,Australia,2015,False,True
+North Macedonia,Montenegro,2015,False,True
+Montenegro,North Macedonia,2015,True,False
+Kenya,Cape Verde,2015,True,False
+Cape Verde,Kenya,2015,False,True
+Eswatini,Nigeria,2015,False,True
+Nigeria,Eswatini,2015,True,False
+Cape Verde,Kenya,2015,False,True
+Kenya,Cape Verde,2015,True,False
+Kyrgyzstan,Jordan,2015,False,True
+Jordan,Kyrgyzstan,2015,True,False
+North Macedonia,Lebanon,2015,False,True
+Lebanon,North Macedonia,2015,True,False
+Nigeria,Eswatini,2015,True,False
+Eswatini,Nigeria,2015,False,True
+Burundi,Zanzibar,2015,True,False
+Zanzibar,Burundi,2015,False,True
+Zanzibar,Uganda,2015,False,True
+Uganda,Zanzibar,2015,True,False
+Zanzibar,Kenya,2015,False,True
+Kenya,Zanzibar,2015,True,False
+Martinique,Guadeloupe,2015,False,False
+Guadeloupe,Martinique,2015,False,False
+Guadeloupe,Martinique,2016,False,False
+Martinique,Guadeloupe,2016,False,False
+French Guiana,Suriname,2016,False,True
+Suriname,French Guiana,2016,True,False
+Gibraltar,Liechtenstein,2016,False,True
+Liechtenstein,Gibraltar,2016,True,False
+Guadeloupe,Suriname,2016,False,True
+Suriname,Guadeloupe,2016,True,False
+Martinique,British Virgin Islands,2016,False,True
+British Virgin Islands,Martinique,2016,True,False
+Slovenia,North Macedonia,2016,True,False
+North Macedonia,Slovenia,2016,False,True
+Djibouti,Liberia,2016,False,True
+Liberia,Djibouti,2016,True,False
+Eswatini,Zimbabwe,2016,False,True
+Zimbabwe,Eswatini,2016,True,False
+Bermuda,French Guiana,2016,True,False
+French Guiana,Bermuda,2016,False,True
+Cape Verde,Morocco,2016,False,True
+Morocco,Cape Verde,2016,True,False
+Dominica,Martinique,2016,True,False
+Martinique,Dominica,2016,False,True
+French Guiana,Cuba,2016,False,True
+Cuba,French Guiana,2016,True,False
+Gibraltar,Latvia,2016,False,True
+Latvia,Gibraltar,2016,True,False
+Liberia,Djibouti,2016,True,False
+Djibouti,Liberia,2016,False,True
+North Macedonia,Bulgaria,2016,False,True
+Bulgaria,North Macedonia,2016,True,False
+Morocco,Cape Verde,2016,True,False
+Cape Verde,Morocco,2016,False,True
+Suriname,Guadeloupe,2016,True,False
+Guadeloupe,Suriname,2016,False,True
+Tajikistan,Kyrgyzstan,2016,True,False
+Kyrgyzstan,Tajikistan,2016,False,True
+Martinique,Panama,2016,False,True
+Panama,Martinique,2016,True,False
+Azerbaijan,North Macedonia,2016,True,False
+North Macedonia,Azerbaijan,2016,False,True
+Martinique,Guadeloupe,2016,False,False
+Guadeloupe,Martinique,2016,False,False
+North Macedonia,Iran,2016,False,True
+Iran,North Macedonia,2016,True,False
+Djibouti,Tunisia,2016,False,True
+Tunisia,Djibouti,2016,True,False
+Guadeloupe,Dominica,2016,False,True
+Dominica,Guadeloupe,2016,True,False
+Eswatini,Guinea,2016,False,True
+Guinea,Eswatini,2016,True,False
+Dominican Republic,French Guiana,2016,True,False
+French Guiana,Dominican Republic,2016,False,True
+Iran,Kyrgyzstan,2016,True,False
+Kyrgyzstan,Iran,2016,False,True
+Zimbabwe,Eswatini,2016,True,False
+Eswatini,Zimbabwe,2016,False,True
+Eswatini,Seychelles,2016,False,True
+Seychelles,Eswatini,2016,True,False
+Eswatini,Madagascar,2016,False,True
+Madagascar,Eswatini,2016,True,False
+French Guiana,Bermuda,2016,False,True
+Bermuda,French Guiana,2016,True,False
+Zambia,Eswatini,2016,True,False
+Eswatini,Zambia,2016,False,True
+South Africa,Eswatini,2016,True,False
+Eswatini,South Africa,2016,False,True
+Eswatini,DR Congo,2016,False,True
+DR Congo,Eswatini,2016,True,False
+Kyrgyzstan,Kazakhstan,2016,False,True
+Kazakhstan,Kyrgyzstan,2016,True,False
+Portugal,Gibraltar,2016,True,False
+Gibraltar,Portugal,2016,False,True
+Cape Verde,Libya,2016,False,True
+Libya,Cape Verde,2016,True,False
+Malawi,Eswatini,2016,True,False
+Eswatini,Malawi,2016,False,True
+Albania,North Macedonia,2016,True,False
+North Macedonia,Albania,2016,False,True
+Gibraltar,Greece,2016,False,True
+Greece,Gibraltar,2016,True,False
+Kyrgyzstan,Philippines,2016,False,True
+Philippines,Kyrgyzstan,2016,True,False
+Kyrgyzstan,Lebanon,2016,False,True
+Lebanon,Kyrgyzstan,2016,True,False
+North Macedonia,Israel,2016,False,True
+Israel,North Macedonia,2016,True,False
+Estonia,Gibraltar,2016,True,False
+Gibraltar,Estonia,2016,False,True
+Dominican Republic,Martinique,2016,True,False
+Martinique,Dominican Republic,2016,False,True
+French Guiana,Saint Kitts and Nevis,2016,False,True
+Saint Kitts and Nevis,French Guiana,2016,True,False
+Senegal,Cape Verde,2016,True,False
+Cape Verde,Senegal,2016,False,True
+North Macedonia,Italy,2016,False,True
+Italy,North Macedonia,2016,True,False
+Gibraltar,Belgium,2016,False,True
+Belgium,Gibraltar,2016,True,False
+Kyrgyzstan,Turkmenistan,2016,False,True
+Turkmenistan,Kyrgyzstan,2016,True,False
+Haiti,French Guiana,2016,True,False
+French Guiana,Haiti,2016,False,True
+Philippines,Kyrgyzstan,2016,True,False
+Kyrgyzstan,Philippines,2016,False,True
+Cape Verde,Burkina Faso,2016,False,True
+Burkina Faso,Cape Verde,2016,True,False
+Spain,North Macedonia,2016,True,False
+North Macedonia,Spain,2016,False,True
+Cyprus,Gibraltar,2016,True,False
+Gibraltar,Cyprus,2016,False,True
+Bahrain,Kyrgyzstan,2016,True,False
+Kyrgyzstan,Bahrain,2016,False,True
+Liechtenstein,North Macedonia,2017,True,False
+North Macedonia,Liechtenstein,2017,False,True
+Bosnia and Herzegovina,Gibraltar,2017,True,False
+Gibraltar,Bosnia and Herzegovina,2017,False,True
+Barbados,Martinique,2017,True,False
+Martinique,Barbados,2017,False,True
+Guyana,Martinique,2017,True,False
+Martinique,Guyana,2017,False,True
+Kyrgyzstan,Macau,2017,False,True
+Macau,Kyrgyzstan,2017,True,False
+Luxembourg,Cape Verde,2017,True,False
+Cape Verde,Luxembourg,2017,False,True
+North Macedonia,Belarus,2017,False,True
+Belarus,North Macedonia,2017,True,False
+Martinique,Guadeloupe,2017,False,False
+Guadeloupe,Martinique,2017,False,False
+Guadeloupe,Dominica,2017,False,True
+Dominica,Guadeloupe,2017,True,False
+North Macedonia,Turkey,2017,False,True
+Turkey,North Macedonia,2017,True,False
+Gibraltar,Cyprus,2017,False,True
+Cyprus,Gibraltar,2017,True,False
+Niger,Eswatini,2017,True,False
+Eswatini,Niger,2017,False,True
+Cape Verde,Uganda,2017,False,True
+Uganda,Cape Verde,2017,True,False
+North Macedonia,Spain,2017,False,True
+Spain,North Macedonia,2017,True,False
+India,Kyrgyzstan,2017,True,False
+Kyrgyzstan,India,2017,False,True
+French Guiana,Barbados,2017,False,True
+Barbados,French Guiana,2017,True,False
+Jamaica,French Guiana,2017,True,False
+French Guiana,Jamaica,2017,False,True
+Martinique,Curacao,2017,False,True
+Curacao,Martinique,2017,True,False
+Martinique,French Guiana,2017,False,False
+French Guiana,Martinique,2017,False,False
+Eswatini,Zimbabwe,2017,False,True
+Zimbabwe,Eswatini,2017,True,False
+Namibia,Eswatini,2017,True,False
+Eswatini,Namibia,2017,False,True
+French Guiana,Canada,2017,False,True
+Canada,French Guiana,2017,True,False
+Martinique,Nicaragua,2017,False,True
+Nicaragua,Martinique,2017,True,False
+Honduras,French Guiana,2017,True,False
+French Guiana,Honduras,2017,False,True
+United States,Martinique,2017,True,False
+Martinique,United States,2017,False,True
+Costa Rica,French Guiana,2017,True,False
+French Guiana,Costa Rica,2017,False,True
+Panama,Martinique,2017,True,False
+Martinique,Panama,2017,False,True
+Eswatini,Zambia,2017,False,True
+Zambia,Eswatini,2017,True,False
+Zambia,Eswatini,2017,True,False
+Eswatini,Zambia,2017,False,True
+Belgium,Gibraltar,2017,True,False
+Gibraltar,Belgium,2017,False,True
+Cape Verde,South Africa,2017,False,True
+South Africa,Cape Verde,2017,True,False
+Israel,North Macedonia,2017,True,False
+North Macedonia,Israel,2017,False,True
+Gibraltar,Bosnia and Herzegovina,2017,False,True
+Bosnia and Herzegovina,Gibraltar,2017,True,False
+North Macedonia,Albania,2017,False,True
+Albania,North Macedonia,2017,True,False
+South Africa,Cape Verde,2017,True,False
+Cape Verde,South Africa,2017,False,True
+Italy,North Macedonia,2017,True,False
+North Macedonia,Italy,2017,False,True
+Cape Verde,Senegal,2017,False,True
+Senegal,Cape Verde,2017,True,False
+Gibraltar,Estonia,2017,False,True
+Estonia,Gibraltar,2017,True,False
+North Macedonia,Liechtenstein,2017,False,True
+Liechtenstein,North Macedonia,2017,True,False
+Myanmar,Kyrgyzstan,2017,True,False
+Kyrgyzstan,Myanmar,2017,False,True
+Greece,Gibraltar,2017,True,False
+Gibraltar,Greece,2017,False,True
+North Macedonia,Norway,2017,False,True
+Norway,North Macedonia,2017,True,False
+Burkina Faso,Cape Verde,2017,True,False
+Cape Verde,Burkina Faso,2017,False,True
+Macau,Kyrgyzstan,2017,True,False
+Kyrgyzstan,Macau,2017,False,True
+Zanzibar,Rwanda,2017,False,True
+Rwanda,Zanzibar,2017,True,False
+Indonesia,Kyrgyzstan,2017,True,False
+Kyrgyzstan,Indonesia,2017,False,True
+Tanzania,Zanzibar,2017,True,False
+Zanzibar,Tanzania,2017,False,True
+Kenya,Zanzibar,2017,True,False
+Zanzibar,Kenya,2017,False,True
+Libya,Zanzibar,2017,True,False
+Zanzibar,Libya,2017,False,True
+Uganda,Zanzibar,2017,True,False
+Zanzibar,Uganda,2017,False,True
+Kenya,Zanzibar,2017,True,False
+Zanzibar,Kenya,2017,False,True
+Kyrgyzstan,Myanmar,2018,False,True
+Myanmar,Kyrgyzstan,2018,True,False
+Finland,North Macedonia,2018,True,False
+North Macedonia,Finland,2018,False,True
+Guadeloupe,Trinidad and Tobago,2018,False,True
+Trinidad and Tobago,Guadeloupe,2018,True,False
+Martinique,Trinidad and Tobago,2018,False,True
+Trinidad and Tobago,Martinique,2018,True,False
+Azerbaijan,North Macedonia,2018,True,False
+North Macedonia,Azerbaijan,2018,False,True
+Kyrgyzstan,India,2018,False,True
+India,Kyrgyzstan,2018,True,False
+Seychelles,Eswatini,2018,True,False
+Eswatini,Seychelles,2018,False,True
+Kenya,Eswatini,2018,True,False
+Eswatini,Kenya,2018,False,True
+Azerbaijan,Kyrgyzstan,2018,True,False
+Kyrgyzstan,Azerbaijan,2018,False,True
+Algeria,Cape Verde,2018,True,False
+Cape Verde,Algeria,2018,False,True
+Lesotho,Eswatini,2018,True,False
+Eswatini,Lesotho,2018,False,True
+Andorra,Cape Verde,2018,True,False
+Cape Verde,Andorra,2018,False,True
+Martinique,French Guiana,2018,False,False
+French Guiana,Martinique,2018,False,False
+Eswatini,Botswana,2018,False,True
+Botswana,Eswatini,2018,True,False
+Guadeloupe,French Guiana,2018,False,False
+French Guiana,Guadeloupe,2018,False,False
+Gibraltar,North Macedonia,2018,True,False
+North Macedonia,Gibraltar,2018,False,True
+Kyrgyzstan,Palestine,2018,False,True
+Palestine,Kyrgyzstan,2018,True,False
+North Macedonia,Armenia,2018,False,True
+Armenia,North Macedonia,2018,True,False
+Kyrgyzstan,Syria,2018,False,True
+Syria,Kyrgyzstan,2018,True,False
+French Guiana,Saint Vincent and the Grenadines,2018,False,True
+Saint Vincent and the Grenadines,French Guiana,2018,True,False
+Egypt,Eswatini,2018,True,False
+Eswatini,Egypt,2018,False,True
+Cape Verde,Tanzania,2018,False,True
+Tanzania,Cape Verde,2018,True,False
+North Macedonia,Liechtenstein,2018,False,True
+Liechtenstein,North Macedonia,2018,True,False
+Puerto Rico,Martinique,2018,True,False
+Martinique,Puerto Rico,2018,False,True
+Armenia,North Macedonia,2018,True,False
+North Macedonia,Armenia,2018,False,True
+Malaysia,Kyrgyzstan,2018,True,False
+Kyrgyzstan,Malaysia,2018,False,True
+Eswatini,Egypt,2018,False,True
+Egypt,Eswatini,2018,True,False
+Tanzania,Cape Verde,2018,True,False
+Cape Verde,Tanzania,2018,False,True
+Martinique,British Virgin Islands,2018,False,True
+British Virgin Islands,Martinique,2018,True,False
+Guadeloupe,Aruba,2018,False,True
+Aruba,Guadeloupe,2018,True,False
+Liechtenstein,North Macedonia,2018,True,False
+North Macedonia,Liechtenstein,2018,False,True
+Uganda,Cape Verde,2018,True,False
+Cape Verde,Uganda,2018,False,True
+North Macedonia,Gibraltar,2018,False,True
+Gibraltar,North Macedonia,2018,True,False
+Curacao,Guadeloupe,2018,True,False
+Guadeloupe,Curacao,2018,False,True
+Martinique,Antigua and Barbuda,2018,False,True
+Antigua and Barbuda,Martinique,2018,True,False
+Japan,Kyrgyzstan,2018,True,False
+Kyrgyzstan,Japan,2018,False,True
+French Guiana,Guyana,2018,False,True
+Guyana,French Guiana,2018,True,False
+Jordan,Kyrgyzstan,2018,True,False
+Kyrgyzstan,Jordan,2018,False,True
+Qatar,Kyrgyzstan,2018,True,False
+Kyrgyzstan,Qatar,2018,False,True
+Kyrgyzstan,Palestine,2018,False,True
+Palestine,Kyrgyzstan,2018,True,False
+China PR,Kyrgyzstan,2019,True,False
+Kyrgyzstan,China PR,2019,False,True
+Kyrgyzstan,South Korea,2019,False,True
+South Korea,Kyrgyzstan,2019,True,False
+Kyrgyzstan,Philippines,2019,False,True
+Philippines,Kyrgyzstan,2019,True,False
+United Arab Emirates,Kyrgyzstan,2019,True,False
+Kyrgyzstan,United Arab Emirates,2019,False,True
+Guadeloupe,Martinique,2019,False,False
+Martinique,Guadeloupe,2019,False,False
+Canada,French Guiana,2019,True,False
+French Guiana,Canada,2019,False,True
+Kyrgyzstan,Palestine,2019,False,True
+Palestine,Kyrgyzstan,2019,True,False
+Canada,Martinique,2019,True,False
+Martinique,Canada,2019,False,True
+Cuba,Martinique,2019,True,False
+Martinique,Cuba,2019,False,True
+Martinique,Mexico,2019,False,True
+Mexico,Martinique,2019,True,False
+Tajikistan,Kyrgyzstan,2019,True,False
+Kyrgyzstan,Tajikistan,2019,False,True
+Martinique,Trinidad and Tobago,2019,False,True
+Trinidad and Tobago,Martinique,2019,True,False
+Saint Kitts and Nevis,French Guiana,2019,True,False
+French Guiana,Saint Kitts and Nevis,2019,False,True
+Trinidad and Tobago,Martinique,2019,True,False
+Martinique,Trinidad and Tobago,2019,False,True
+French Guiana,Grenada,2019,False,True
+Grenada,French Guiana,2019,True,False
+Kyrgyzstan,Myanmar,2019,False,True
+Myanmar,Kyrgyzstan,2019,True,False
+Honduras,Martinique,2019,True,False
+Martinique,Honduras,2019,False,True
+Grenada,French Guiana,2019,True,False
+French Guiana,Grenada,2019,False,True
+Uzbekistan,Kyrgyzstan,2019,True,False
+Kyrgyzstan,Uzbekistan,2019,False,True
+Martinique,Honduras,2019,False,True
+Honduras,Martinique,2019,True,False
+Kyrgyzstan,Japan,2019,False,True
+Japan,Kyrgyzstan,2019,True,False
+French Guiana,Saint Kitts and Nevis,2019,False,True
+Saint Kitts and Nevis,French Guiana,2019,True,False
+Kyrgyzstan,Tajikistan,2019,False,True
+Tajikistan,Kyrgyzstan,2019,True,False
+Curacao,Saint Vincent and the Grenadines,2021,False,True
+Saint Vincent and the Grenadines,Curacao,2021,True,False
+Cuba,Curacao,2021,True,False
+Curacao,Cuba,2021,False,True
+British Virgin Islands,Curacao,2021,True,False
+Curacao,British Virgin Islands,2021,False,True
+Curacao,Guatemala,2021,False,True
+Guatemala,Curacao,2021,True,False
+Myanmar,Kyrgyzstan,2021,True,False
+Kyrgyzstan,Myanmar,2021,False,True
+Panama,Curacao,2021,True,False
+Curacao,Panama,2021,False,True
+Japan,Kyrgyzstan,2021,True,False
+Kyrgyzstan,Japan,2021,False,True
+Curacao,Panama,2021,False,True
+Panama,Curacao,2021,True,False
+Cuba,French Guiana,2021,True,False
+French Guiana,Cuba,2021,False,True
+Guatemala,Guadeloupe,2021,True,False
+Guadeloupe,Guatemala,2021,False,True
+Trinidad and Tobago,French Guiana,2021,True,False
+French Guiana,Trinidad and Tobago,2021,False,True
+Canada,Martinique,2021,True,False
+Martinique,Canada,2021,False,True
+Costa Rica,Guadeloupe,2021,True,False
+Guadeloupe,Costa Rica,2021,False,True
+United States,Martinique,2021,True,False
+Martinique,United States,2021,False,True
+Guadeloupe,Jamaica,2021,False,True
+Jamaica,Guadeloupe,2021,True,False
+Martinique,Haiti,2021,False,True
+Haiti,Martinique,2021,True,False
+Suriname,Guadeloupe,2021,True,False
+Guadeloupe,Suriname,2021,False,True
+Kyrgyzstan,Palestine,2021,False,True
+Palestine,Kyrgyzstan,2021,True,False
+Kyrgyzstan,Bangladesh,2021,False,True
+Bangladesh,Kyrgyzstan,2021,True,False
+Bahrain,Curacao,2021,True,False
+Curacao,Bahrain,2021,False,True
+Curacao,New Zealand,2021,False,True
+New Zealand,Curacao,2021,True,False
+Kyrgyzstan,Singapore,2021,False,True
+Singapore,Kyrgyzstan,2021,True,False
+Bahrain,Kyrgyzstan,2021,True,False
+Kyrgyzstan,Bahrain,2021,False,True
+Guadeloupe,Cape Verde,2022,False,True
+Cape Verde,Guadeloupe,2022,True,False
+Uzbekistan,Kyrgyzstan,2022,True,False
+Kyrgyzstan,Uzbekistan,2022,False,True
+Tajikistan,Kyrgyzstan,2022,True,False
+Kyrgyzstan,Tajikistan,2022,False,True
+Guadeloupe,Cuba,2022,False,True
+Cuba,Guadeloupe,2022,True,False
+French Guiana,Guatemala,2022,False,True
+Guatemala,French Guiana,2022,True,False
+Costa Rica,Martinique,2022,True,False
+Martinique,Costa Rica,2022,False,True
+Antigua and Barbuda,Guadeloupe,2022,True,False
+Guadeloupe,Antigua and Barbuda,2022,False,True
+Dominican Republic,French Guiana,2022,True,False
+French Guiana,Dominican Republic,2022,False,True
+Kyrgyzstan,Singapore,2022,False,True
+Singapore,Kyrgyzstan,2022,True,False
+Panama,Martinique,2022,True,False
+Martinique,Panama,2022,False,True
+Barbados,Guadeloupe,2022,True,False
+Guadeloupe,Barbados,2022,False,True
+Kyrgyzstan,Myanmar,2022,False,True
+Myanmar,Kyrgyzstan,2022,True,False
+Martinique,Panama,2022,False,True
+Panama,Martinique,2022,True,False
+Guadeloupe,Barbados,2022,False,True
+Barbados,Guadeloupe,2022,True,False
+Kyrgyzstan,Tajikistan,2022,False,True
+Tajikistan,Kyrgyzstan,2022,True,False
+Hong Kong,Singapore,2023,False,True
+Singapore,Hong Kong,2023,True,False
+Guadeloupe,Antigua and Barbuda,2023,False,True
+Antigua and Barbuda,Guadeloupe,2023,True,False
+French Guiana,Dominican Republic,2023,False,True
+Dominican Republic,French Guiana,2023,True,False
+Mali,Gambia,2023,True,False
+Gambia,Mali,2023,False,True
+Czech Republic,Poland,2023,False,True
+Poland,Czech Republic,2023,True,False
+Nicaragua,Saint Vincent and the Grenadines,2023,True,False
+Saint Vincent and the Grenadines,Nicaragua,2023,False,True
+Myanmar,Kyrgyzstan,2023,True,False
+Kyrgyzstan,Myanmar,2023,False,True
+Armenia,Turkey,2023,True,False
+Turkey,Armenia,2023,False,True
+Martinique,Costa Rica,2023,False,True
+Costa Rica,Martinique,2023,True,False
+Curacao,Canada,2023,False,True
+Canada,Curacao,2023,True,False
+Cuba,Guadeloupe,2023,True,False
+Guadeloupe,Cuba,2023,False,True
+Moldova,Czech Republic,2023,True,False
+Czech Republic,Moldova,2023,False,True
+Guatemala,French Guiana,2023,True,False
+French Guiana,Guatemala,2023,False,True
+Saint Kitts and Nevis,Aruba,2023,False,True
+Aruba,Saint Kitts and Nevis,2023,True,False
+Argentina,Curacao,2023,True,False
+Curacao,Argentina,2023,False,True
+India,Kyrgyzstan,2023,True,False
+Kyrgyzstan,India,2023,False,True
+Malaysia,Hong Kong,2023,True,False
+Hong Kong,Malaysia,2023,False,True
+Gambia,Mali,2023,False,True
+Mali,Gambia,2023,True,False
+Turkey,Croatia,2023,False,True
+Croatia,Turkey,2023,True,False
+Curacao,Costa Rica,2023,False,True
+Costa Rica,Curacao,2023,True,False
+Vietnam,Hong Kong,2023,True,False
+Hong Kong,Vietnam,2023,False,True
+Antigua and Barbuda,Guadeloupe,2023,True,False
+Guadeloupe,Antigua and Barbuda,2023,False,True
+Martinique,Saint Lucia,2023,False,True
+Saint Lucia,Martinique,2023,True,False
+Curacao,Saint Kitts and Nevis,2023,False,False
+Saint Kitts and Nevis,Curacao,2023,False,False
+Latvia,Turkey,2023,True,False
+Turkey,Latvia,2023,False,True
+Kyrgyzstan,Iran,2023,False,True
+Iran,Kyrgyzstan,2023,True,False
+Faroe Islands,Czech Republic,2023,True,False
+Czech Republic,Faroe Islands,2023,False,True
+Hong Kong,Thailand,2023,False,True
+Thailand,Hong Kong,2023,True,False
+Turkey,Wales,2023,False,True
+Wales,Turkey,2023,True,False
+Guadeloupe,Guyana,2023,False,True
+Guyana,Guadeloupe,2023,True,False
+Martinique,Puerto Rico,2023,False,True
+Puerto Rico,Martinique,2023,True,False
+Saint Kitts and Nevis,French Guiana,2023,False,False
+French Guiana,Saint Kitts and Nevis,2023,False,False
+Montenegro,Czech Republic,2023,True,False
+Czech Republic,Montenegro,2023,False,True
+Kyrgyzstan,Oman,2023,False,True
+Oman,Kyrgyzstan,2023,True,False
+Trinidad and Tobago,Saint Kitts and Nevis,2023,True,False
+Saint Kitts and Nevis,Trinidad and Tobago,2023,False,True
+El Salvador,Martinique,2023,True,False
+Martinique,El Salvador,2023,False,True
+Canada,Guadeloupe,2023,True,False
+Guadeloupe,Canada,2023,False,True
+United States,Saint Kitts and Nevis,2023,True,False
+Saint Kitts and Nevis,United States,2023,False,True
+Martinique,Panama,2023,False,True
+Panama,Martinique,2023,True,False
+Cuba,Guadeloupe,2023,True,False
+Guadeloupe,Cuba,2023,False,True
+Jamaica,Saint Kitts and Nevis,2023,True,False
+Saint Kitts and Nevis,Jamaica,2023,False,True
+Costa Rica,Martinique,2023,True,False
+Martinique,Costa Rica,2023,False,True
+Guadeloupe,Guatemala,2023,False,True
+Guatemala,Guadeloupe,2023,True,False
+Trinidad and Tobago,Curacao,2023,True,False
+Curacao,Trinidad and Tobago,2023,False,True
+Panama,Martinique,2023,True,False
+Martinique,Panama,2023,False,True
+Saint Kitts and Nevis,Guadeloupe,2023,False,False
+Guadeloupe,Saint Kitts and Nevis,2023,False,False
+Cambodia,Hong Kong,2023,True,False
+Hong Kong,Cambodia,2023,False,True
+Czech Republic,Albania,2023,False,True
+Albania,Czech Republic,2023,True,False
+Bermuda,French Guiana,2023,True,False
+French Guiana,Bermuda,2023,False,True
+Turkey,Armenia,2023,False,True
+Armenia,Turkey,2023,True,False
+Martinique,Curacao,2023,False,False
+Curacao,Martinique,2023,False,False
+Saint Lucia,Saint Kitts and Nevis,2023,True,False
+Saint Kitts and Nevis,Saint Lucia,2023,False,True
+Hungary,Czech Republic,2023,True,False
+Czech Republic,Hungary,2023,False,True
+Gambia,Congo,2023,False,True
+Congo,Gambia,2023,True,False
+Kuwait,Kyrgyzstan,2023,True,False
+Kyrgyzstan,Kuwait,2023,False,True
+Saint Vincent and the Grenadines,Bermuda,2023,False,True
+Bermuda,Saint Vincent and the Grenadines,2023,True,False
+Japan,Turkey,2023,True,False
+Turkey,Japan,2023,False,True
