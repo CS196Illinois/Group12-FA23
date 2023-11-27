@@ -20,19 +20,23 @@
           {% for calc in calcs %}
           <div class="calc-widget container border text-center">
             <div class="row">
-                <p class="h5"><span>{{ calc.year }}</span></p>
-                <img src="{{calc.background}}" alt="static\NoLoss.png">
+                <div class="h5 no-pad year">
+                    <p>{{ calc.year }}</p>
+                </div>
             </div>
             <div class="row">
-                <div class="col">
-                    <img src="{{calc.home_jersey}}" alt="" style="width: 100%; height: auto;">
+                <img src="{{calc.background}}" alt="static\NoLoss.png">
+            </div>
+            <div class="row ">
+                <div class="col jersey">
+                    <img src="{{calc.home_jersey}}" alt="" style="width: 75%; height: auto;">
                 </div>
-                <div class="col">
-                    <p><span>{{ calc.home }} Versus {{ calc.away }}</span></p>
+                <div class="col stats h7">
+                    <p><span>{{ calc.home }} Vs. {{ calc.away }}</span></p>
                     <p><span>{{ calc.percentages[0] }}% to {{ calc.percentages[1] }}%</span></p>
                 </div>
-                <div class="col">
-                    <img src="{{calc.away_jersey}}" alt="" style="width: 100%; height: auto;">
+                <div class="col jersey">
+                    <img src="{{calc.away_jersey}}" alt="" style="width: 75%; height: auto;">
                 </div>
             </div>
           </div>
