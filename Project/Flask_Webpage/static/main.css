@@ -64,12 +64,16 @@ body {
   }
 
   .jersey {
-    margin-top: -8%;
+    margin-top: -3%;
   }
 
   .stats {
     white-space: nowrap;
     color: white;
+  }
+
+  .stats p {
+    margin-bottom: 5px;
   }
   /* Widget Classes End*/
 

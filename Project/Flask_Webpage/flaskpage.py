@@ -1,5 +1,7 @@
 # Imports
 from flask import Flask, render_template, url_for
+import database
+import model
 
 
 # Initialize Flask Application
@@ -17,6 +19,7 @@ calculations = [
         'year': 'YYYY',
         'home': 'HOME',
         'away': 'AWAY',
+        'field' :'HOME FIELD',
         'percentages': [50, 50],
         'home_jersey': JERSEY_ONE,
         'away_jersey': JERSEY_TWO,
@@ -26,6 +29,7 @@ calculations = [
         'year': 'YYYY',
         'home': 'HOME',
         'away': 'AWAY',
+        'field' : 'NEUTRAL FIELD',
         'percentages': [70, 30],
         'home_jersey': JERSEY_ONE,
         'away_jersey': JERSEY_TWO,
@@ -35,6 +39,7 @@ calculations = [
         'year': 'YYYY',
         'home': 'HOME',
         'away': 'AWAY',
+        'field' : 'NEUTRAL FIELD',
         'percentages': [40, 50],
         'home_jersey': JERSEY_ONE,
         'away_jersey': JERSEY_TWO,
