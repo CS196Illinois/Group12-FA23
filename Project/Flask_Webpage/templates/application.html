@@ -1,71 +1,86 @@
 {% extends "layout.html" %}
 
+{% block header %}
+    <img src="/static/StadiumThin.png" alt="" class="header">
+{% endblock %}
+
 {% block content %} 
+    <script src="/static/application.js"></script>
     <div class="col-md-12">
-        <h1>Application</h1>
-        <p>Enter calculations here!</p>
+        <h1>Group 12's Soccer Predictor</h1>
+        <p>Please enter in the following 4 fields of information to predict the outcome of a soccer game</p>
+        <br>
     </div>
-    <div>
-        <body>
-            <!--<form action="action_page.php" method="POST">-->
-            <form>
-                <div>
-                    <label for="country1">Country 1:</label>
-                    <input type="text" id="country1" name="country1" placeholder="Enter Country" required>
-                </div>
 
-                <div>
-                    <label for="country2">Country 2:</label>
-                    <input type="text" id="country2" name="country2" placeholder="Enter Country" required>
+    <div class="col-md-12 container-fluid mx-auto">
+        <div class="row">
+            <div class="col-md-4">
+                <span class="h3">Home Team:</span>
+                <div id="homeDropdown" class="dropdown-content h4">
+                    <input type="text" placeholder="Search Country..." id="homeInput" class="search" onkeyup="filterHome()">
+                    <div id="homeMenu" class="menu"></div>
                 </div>
+            </div>
+    
+            <div class="col-md-3">
+                <h1><em><strong>VS.</strong></em></h1>
+
+                <label for="year" class="h4">Year (1950-2024):</label>
+                <input type="number" name="year" id="year" min="1950" max="2024" class="h4">
 
                 <br>
-
-                <div>
-                    <label for="playing">Country 1 is playing:</label>
-
-                    <label for="Home">Home</label>
-                    <input type="radio" name="playing" value="Country1home">
-
-                    <label for="Away">Away</label>
-                    <input type="radio" name="playing" value="Country1away">
-
-                    <label for="Neutral">Neutral</label>
-                    <input type="radio" name="playing" value="Neutral">
-                </div>
+                <br>
+                
+                <label for="field" class="h4">Field:</label> <br>
+                <input type="radio" name="field" id="homeField" value="HOME"> Home Field <br>
+                <input type="radio" name="field" id="neutralField" value="NEUTRAL"> Neutral Field
 
                 <br>
-
-                <div>
-                    <label for="country1">Country 1:</label>
-                    <select id="country" name="country">
-                        <option value="USA">CountryA</option>
-                        <option value="USA">CountryB</option>
-                        <option value="USA">CountryC</option>
-                    </select>
-                </div>
-
-                <div>
-                    <label for="country1">Country 2:</label>
-                    <select id="country" name="country">
-                        <option value="USA">CountryA</option>
-                        <option value="USA">CountryB</option>
-                        <option value="USA">CountryC</option>
-                    </select>
-                </div>
-
                 <br>
 
-                <div>
-                    <input type="reset">
+                <button id="predict">Predict!</button>
+            </div>
+    
+            <div class="col-md-4">
+                <span class="h3">Away Team:</span>
+                <div id="awayDropdown" class="dropdown-content h4">
+                    <input type="text" placeholder="Search Country..." id="awayInput" class="search" onkeyup="filterAway()">
+                    <div id="awayMenu" class="menu"></div>
                 </div>
+            </div>
+        </div>
 
-                <div>
-                    <input type="submit">
-                </div>
-
-            </form>
-
-        </body>
+        <hr style="margin: 10px; width: 92%">
     </div>
+    
+
+    {% if params != null %}
+    <div class="col-md-6 mx-auto">
+        <div class="content-section fade-in">
+            <div class="calc-widget container border text-center">
+                <div class="row">
+                    <div class="no-pad year">
+                        <p class="h5">{{ params.year }}</p>
+                        <p class="h9">{{ params.field }}</p>
+                    </div>
+                </div>
+                <div class="row">
+                    <img src="{{ params.background }}" alt="static\NoLoss.png">
+                </div>
+                <div class="row">
+                    <div class="col-md-3 jersey">
+                        <img src="{{ params.home_jersey }}" alt="" style="width: 60%; height: auto; max-height: 5vh;">
+                    </div>
+                    <div class="col-md-6 stats h7">
+                        <p><span>{{ params.home }} Vs. {{ params.away }}</span></p>
+                        <p><span>{{ params.percentages[1] }}% to {{ params.percentages[0] }}%</span></p>
+                    </div>
+                    <div class="col-md-3 jersey">
+                        <img src="{{ params.away_jersey }}" alt="" style="width: 60%; height: auto; max-height: 5vh;">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endif %}
 {% endblock %}

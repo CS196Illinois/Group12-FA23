@@ -3,12 +3,14 @@
 {% block content %} 
     <div class="col-md-7">
         <h1>Welcome to our Soccer match predictor!</h1>
-        <p>Hi team, we need a better name for our project so it isn't just called "CS124H Group 12 Project".</p>
+        <p>Group Members: Andrew (amc19), KB (ronaldc5), Janine (jrleong2), Jeny (jenys2), Mahir (mahirs2), Larsen (larsenp2)</p>
+        <p>Project Manager: Thomas (thomasp7)</p>
+        <hr>
         <p>
-            Also, I'm thinking we want the algorithm to not only find the most efficient combination but also output,
-            like, a rating for certain combinations and maybe it'll be robust enough that it can be used to predict
-            outcomes or smth. It would be super cool if we made some like prediction algorithm for matchups even
-            if it doesn't quite have enough data to be like omg crazy psychic AI predicting future perfectly moment.
+            The intention of the project is to use machine learning concepts to predict the outcomes of games between 1950 to 2024 even if that specific matchup was not actually played in the past.
+        </p>
+        <p>
+            To do this, we used historical data of the outcomes of games and our algorithm uses the teams performance from past games up to 5 years ago and if they have a field advantage.
         </p>
     </div>
 
@@ -29,15 +31,15 @@
                 <img src="{{calc.background}}" alt="static\NoLoss.png">
             </div>
             <div class="row">
-                <div class="col jersey">
-                    <img src="{{calc.home_jersey}}" alt="" style="width: 50%; height: auto;">
+                <div class="col-md-3 jersey">
+                    <img src="{{calc.home_jersey}}" alt="" style="width: 60%; height: auto; max-height: 5vh;">
                 </div>
-                <div class="col stats h7">
+                <div class="col-md-6 stats h7">
                     <p><span>{{ calc.home }} Vs. {{ calc.away }}</span></p>
                     <p><span>{{ calc.percentages[0] }}% to {{ calc.percentages[1] }}%</span></p>
                 </div>
-                <div class="col jersey">
-                    <img src="{{calc.away_jersey}}" alt="" style="width: 50%; height: auto;">
+                <div class="col-md-3 jersey">
+                    <img src="{{calc.away_jersey}}" alt="" style="width: 60%; height: auto; max-height: 5vh;">
                 </div>
             </div>
           </div>
