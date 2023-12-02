@@ -15,36 +15,6 @@ JERSEY_ONE = "static/flags/England.png"
 JERSEY_TWO = "static/flags/New_Zealand.png"
 
 calculations = [
-    {
-        'year': 'YYYY',
-        'home': 'HOME',
-        'away': 'AWAY',
-        'field' :'HOME FIELD',
-        'percentages': [50, 50],
-        'home_jersey': JERSEY_ONE,
-        'away_jersey': JERSEY_TWO,
-        'background': TIE_IMAGE
-    },
-    {
-        'year': 'YYYY',
-        'home': 'HOME',
-        'away': 'AWAY',
-        'field' : 'NEUTRAL FIELD',
-        'percentages': [70, 30],
-        'home_jersey': JERSEY_ONE,
-        'away_jersey': JERSEY_TWO,
-        'background': HOME_WIN_IMAGE
-    },
-    {
-        'year': 'YYYY',
-        'home': 'HOME',
-        'away': 'AWAY',
-        'field' : 'NEUTRAL FIELD',
-        'percentages': [40, 50],
-        'home_jersey': JERSEY_ONE,
-        'away_jersey': JERSEY_TWO,
-        'background': AWAY_WIN_IMAGE
-    }
 ]
 
 
@@ -80,7 +50,7 @@ def submit(home, away, year, field):
     home_jersey = "/static/flags/" + "_".join(home.split(" ")) + ".png"
     away_jersey = "/static/flags/" + "_".join(away.split(" ")) + ".png"
 
-    return render_template('application.html', params={
+    params={
         'home' : home,
         'away' : away,
         'year' : year,
@@ -89,7 +59,14 @@ def submit(home, away, year, field):
         'background' : background,
         'home_jersey' : home_jersey,
         'away_jersey' : away_jersey
-    })
+    }
+
+    calculations.append(params)
+    if (len(calculations) > 3):
+        calculations.remove(calculations[0])
+
+
+    return render_template('application.html', params=params)
 
 
 # Automatically runs debug mode if script is run directly
