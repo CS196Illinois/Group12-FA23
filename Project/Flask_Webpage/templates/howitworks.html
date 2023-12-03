@@ -3,11 +3,54 @@
 {% block content %} 
     <div class="col-md-12">
         <h1>How it Works</h1>
-        <p>Who knows at this point?</p>
+        <h2>Introduction</h2>
+        <p>The website takes input from the user (two countries, who has home field advantage, and the year). Then it uses a ML model to predict the probability of each side winning a soccer match (for countries).
+        </p>
+        <h2>Tech Stack</h2>
+        <p><b>Front end:</b>
+            <br>HTML <-- Jinja Templating
+            <br>CSS <-- Bootstrap
+            <br>Javascript
+            <br><b>Back end:</b>
+            <br>Python + Flask
+            <br>Machine Learning: 
+            <br>WEKA (for preliminary testing)
+            <br>SciKit Learn (for final project)
+        </p>
+        <h2>Machine Learning</h2>
+        <h4>Data Cleaning</h4>
         <p>
-            We can explain our project here and the parameters we use so we can use 
-            this website as like our presentation medium that would be cool :D
+            1. Imported the dataset from Kaggle
+            <br>2. Removed any special characters, such as à, and replaced them with their standard character, in this case it would be a.
+            <br>3. Split the data by the delimiters, and then assigned the splits to their appropriate data variable for their respective country
+            <br><b>Variables we used and how they were cleaned:</b> 
+            <br>- Year 
+            <br>- homeTeam - Team with home field advantage (must be a valid country otherwise the row is discarded)
+            <br>- awayTeam - Team without home field advantage (must be a valid country otherwise the row is discarded)
+            <br>- homeScore / awayScore - score of the match, if illegal values were detected (negative numbers or non-integers, the row was discarded)
+            <br>- Neutral - Boolean value representing if the match was played on a neutral field, assumed to be negative for most of the data
+            <br>- ***tourName, City, and Country variables were dropped as irrelevant variables from the uncleaned data .csv file
+        </p>
+        <h4>Testing</h4>
+        <p>
+            <b>First round: </b>
+            <br>- Inputted only the columns containing the data for the following:home team name, away team name, home field advantage, date, and result. 
+            <br>- We asked the algorithm to predict the result. 
+            <br>- On average, the returned predictions had barely over 50% correctly categorized for 10-fold cross validation.
+            <br><b>Second round: </b>
+            <br>- Filtered out smaller teams 
+            <br>- Inputted new data into the algorithm
+            <br>- New model yields about 70% accuracy at predicting win/lose (nearly 0% predicting ties) 
+        </p>
+        
+        <h2>Website Development</h2>
+        <p>
+            We used Python and Flask to connect the front end and back end and HTML and CSS for website. In the website we created an input form for the application and designed the interface and colors
+        </p>
+        <h2>Future work</h2>
+        <p>
+            Going forward, we can add more countries or make a model that can predict other teams like professional soccer clubs and add more data into our ML model for more accurate predictions.
+            
         </p>
     </div>
 {% endblock %}
-
